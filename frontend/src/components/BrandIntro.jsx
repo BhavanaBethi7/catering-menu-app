@@ -14,7 +14,6 @@ export default function BrandIntro() {
   return (
     <div
       style={{
-        height: "100vh",
         width: "100vw",
         background: "radial-gradient(circle at left, #FFF3E8, #F5EFE6)",
         display: "flex",
