@@ -21,7 +21,7 @@ export default function VegNonVegSelector() {
           onClick={() => handleSelect("veg")}
         >
           <h3>Vegetarian</h3>
-          <p className="hint">Pure Veg Selection</p>
+          <p className="hint">Includes sweets and desserts..</p>
         </div>
 
         {/* NON-VEG */}
