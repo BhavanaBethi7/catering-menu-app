@@ -7,14 +7,21 @@ export default function PageContainer({ children }) {
       <BrandedNavbar />
 
       <motion.div
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        exit={{ opacity: 0, y: -20 }}
-        transition={{ duration: 0.5, ease: "easeOut" }}
-        style={containerStyle}
-      >
-        {children}
-      </motion.div>
+  initial={{ opacity: 0, y: 20 }}
+  animate={{ opacity: 1, y: 0 }}
+  exit={{ opacity: 0, y: -20 }}
+  transition={{ duration: 0.5, ease: "easeOut" }}
+  style={{
+    width: "100%",
+    maxWidth: "1400px",
+    margin: "0 auto",
+    padding: "1.5rem",
+    minHeight: "100vh",   // ✅ allow page growth
+  }}
+>
+  {children}
+</motion.div>
+
     </>
   );
 }
