@@ -1,0 +1,888 @@
+name,mealType,foodType,category,subCategory,page
+Idly,breakfast,veg,BreakFast Items,,breakfast
+Thatta Idly,breakfast,veg,BreakFast Items,,breakfast
+Wada ,breakfast,veg,BreakFast Items,,breakfast
+Pongal,breakfast,veg,BreakFast Items,,breakfast
+Upma,breakfast,veg,BreakFast Items,,breakfast
+Tomato Bath,breakfast,veg,BreakFast Items,,breakfast
+Poori,breakfast,veg,BreakFast Items,,breakfast
+Plain Dosa,breakfast,veg,BreakFast Items,,breakfast
+Masala Dosa,breakfast,veg,BreakFast Items,,breakfast
+Onion Dosa,breakfast,veg,BreakFast Items,,breakfast
+Butter Dosa,breakfast,veg,BreakFast Items,,breakfast
+Paneer Butter Dosa,breakfast,veg,BreakFast Items,,breakfast
+Pizza Dosa,breakfast,veg,BreakFast Items,,breakfast
+Pesarattu,breakfast,veg,BreakFast Items,,breakfast
+Bambino Upma,breakfast,veg,BreakFast Items,,breakfast
+Poha,breakfast,veg,BreakFast Items,,breakfast
+Bishi Beli Bath,breakfast,veg,BreakFast Items,,breakfast
+Sabudana Kichidi,breakfast,veg,BreakFast Items,,breakfast
+Bread Butter/Jam,breakfast,veg,BreakFast Items,,breakfast
+Cornflake with Milk,breakfast,veg,BreakFast Items,,breakfast
+Rawa Kesari,breakfast,veg,BreakFast Items,,breakfast
+Coconut Chutney,breakfast,veg,Common Items,,breakfast
+Palli Chutney,breakfast,veg,Common Items,,breakfast
+Tomato Chutney,breakfast,veg,Common Items,,breakfast
+Sambar,breakfast,veg,Common Items,,breakfast
+Karam Podi (Idly),breakfast,veg,BreakFast Items,,breakfast
+Alu Curry(Poori),breakfast,veg,BreakFast Items,,breakfast
+Tea,breakfast,veg,Common Items,,breakfast
+Coffee,breakfast,veg,Common Items,,breakfast
+Milk,breakfast,veg,Common Items,,breakfast
+Apam with Veg. Stew,breakfast,nonveg,BreakFast Items,,breakfast
+Keema Dosa,breakfast,nonveg,BreakFast Items,,breakfast
+Keema Poori,breakfast,nonveg,BreakFast Items,,breakfast
+Bread Omlet,breakfast,nonveg,BreakFast Items,,breakfast
+Chicken Dosa,breakfast,nonveg,BreakFast Items,,breakfast
+Apam with Chicken. Stew,breakfast,nonveg,BreakFast Items,,breakfast
+Hot Badam Milk,lunch,veg,Welcome Drinks,,starters
+Cold Badam Milk,lunch,veg,Welcome Drinks,,starters
+Ganga Jamuna,lunch,veg,Welcome Drinks,,starters
+Mosambi Juice,lunch,veg,Welcome Drinks,,starters
+Pineapple Juice,lunch,veg,Welcome Drinks,,starters
+Sapota Juice,lunch,veg,Welcome Drinks,,starters
+Jungle Juice,lunch,veg,Welcome Drinks,,starters
+Water Melon,lunch,veg,Welcome Drinks,,starters
+Black Grape,lunch,veg,Welcome Drinks,,starters
+Ajanta Grape,lunch,veg,Welcome Drinks,,starters
+Mixed Fruit Juice,lunch,veg,Welcome Drinks,,starters
+Orange Juice,lunch,veg,Welcome Drinks,,starters
+Apple Juice,lunch,veg,Welcome Drinks,,starters
+Mango Juice,lunch,veg,Welcome Drinks,,starters
+Fruit Punch,lunch,veg,Welcome Drinks,,starters
+Lychee Punch,lunch,veg,Welcome Drinks,,starters
+Pineapple Punch,lunch,veg,Welcome Drinks,,starters
+Lychee Coconut,lunch,veg,Welcome Drinks,,starters
+Mango Blossomme,lunch,veg,Welcome Drinks,,starters
+Orange Blossomme,lunch,veg,Welcome Drinks,,starters
+Pina Caloda,lunch,veg,Welcome Drinks,,starters
+Melon Surprise,lunch,veg,Welcome Drinks,,starters
+Lime Soda (Sweet,lunch,veg,Welcome Drinks,,starters
+Lime Soda (Salt),lunch,veg,Welcome Drinks,,starters
+Masala Soda,lunch,veg,Welcome Drinks,,starters
+Mint Mango,lunch,veg,Welcome Drinks,,starters
+Mint Pineapple,lunch,veg,Welcome Drinks,,starters
+Anaar Ginger,lunch,veg,Welcome Drinks,,starters
+Sweet Lassi,lunch,veg,Welcome Drinks,,starters
+Salted Lassi,lunch,veg,Welcome Drinks,,starters
+Special Lassi,lunch,veg,Welcome Drinks,,starters
+Lemon Jaljeera,lunch,veg,Welcome Drinks,,starters
+Lemon Water Melon,lunch,veg,Welcome Drinks,,starters
+Apple Shake,lunch,veg,Welcome Drinks,,starters
+Mango Shake,lunch,veg,Welcome Drinks,,starters
+Strawberry Shake,lunch,veg,Welcome Drinks,,starters
+Chocolate Shake,lunch,veg,Welcome Drinks,,starters
+Banana Shake,lunch,veg,Welcome Drinks,,starters
+Apple Banana Shake,lunch,veg,Welcome Drinks,,starters
+Dry Fruit Shake,lunch,veg,Welcome Drinks,,starters
+Butter Scotch Shake,lunch,veg,Welcome Drinks,,starters
+Kiwi Delight Shake,lunch,veg,Welcome Drinks,,starters
+Chiku Shake,lunch,veg,Welcome Drinks,,starters
+200ml Water Bottle (Brands),lunch,veg,Welcome Drinks,,starters
+Tea or Coffee,lunch,veg,Welcome Drinks,,starters
+Any Soft Drinks (Branded),lunch,veg,Welcome Drinks,,starters
+Tetra Packed Juices,lunch,veg,Welcome Drinks,,starters
+Blue Sea,lunch,veg,Welcome Drinks,MockTails,starters
+Pink Lady,lunch,veg,Welcome Drinks,MockTails,starters
+Mint Green,lunch,veg,Welcome Drinks,MockTails,starters
+Black Current,lunch,veg,Welcome Drinks,MockTails,starters
+Peach Melba,lunch,veg,Welcome Drinks,MockTails,starters
+Verjin Mojito,lunch,veg,Welcome Drinks,MockTails,starters
+Strawberry Surprise,lunch,veg,Welcome Drinks,MockTails,starters
+Kiwi Kiss,lunch,veg,Welcome Drinks,MockTails,starters
+Passion Punch,lunch,veg,Welcome Drinks,MockTails,starters
+Tomato Soup,lunch,veg,Soups,,starters
+Sweetcorn Soup,lunch,veg,Soups,,starters
+Veg. Corn Soup,lunch,veg,Soups,,starters
+Veg. Clear Soup,lunch,veg,Soups,,starters
+Mushroom Soup,lunch,veg,Soups,,starters
+Hot & Sour Soup,lunch,veg,Soups,,starters
+Tomato Shorba,lunch,veg,Soups,,starters
+Corn Shorba,lunch,veg,Soups,,starters
+Badam Soup,lunch,veg,Soups,,starters
+Lemon Coriander Soup,lunch,veg,Soups,,starters
+Veg. Manchow Soup,lunch,veg,Soups,,starters
+Veg. Cantonese Soup,lunch,veg,Soups,,starters
+Chicken Clear Soup,lunch,nonveg,Soups,,starters
+Chicken Corn Soup,lunch,nonveg,Soups,,starters
+Chicken Mushroom Soup,lunch,nonveg,Soups,,starters
+Chicken Hot & Sour Soup,lunch,nonveg,Soups,,starters
+Paya Soup,lunch,nonveg,Soups,,starters
+Marag Soup,lunch,nonveg,Soups,,starters
+Badami Murg Soup,lunch,nonveg,Soups,,starters
+Chicken Cantonese Soup,lunch,nonveg,Soups,,starters
+Chicken Manchow Soup,lunch,nonveg,Soups,,starters
+Chicken 65,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Manchurian,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Lollypop,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Tikka,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Murg Malai Kabab,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Garlic Kabab,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Reshmi Kabab,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Hariyali Kabab,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Kabab Kali Mirchi,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Thiranga Kabab,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Afghani Kabab,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Pahadi Kababi,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Pakoda,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Leg Roast,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Pepper Chicken,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Popcorn Chicken,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chilli Chicken,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Majestic,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Stick,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Seekh Kabab,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Shami Kabab,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Naggets,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Shezwan Chicken,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Intermediate,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Thatti ka Chicken,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Vantine,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Shovarma,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Tawwa Chicken,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Chicken Kathi Roll,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Fried Wings,lunch,nonveg,Welcome Snacks,Chicken Snacks,starters
+Finger Fish,lunch,nonveg,Welcome Snacks,Fish Snacks,starters
+Apollo Fish,lunch,nonveg,Welcome Snacks,Fish Snacks,starters
+Fried Fish,lunch,nonveg,Welcome Snacks,Fish Snacks,starters
+Pepper Fish,lunch,nonveg,Welcome Snacks,Fish Snacks,starters
+Chilly Fried Fish,lunch,nonveg,Welcome Snacks,Fish Snacks,starters
+Fish Tikka,lunch,nonveg,Welcome Snacks,Fish Snacks,starters
+Fish Cutlet,lunch,nonveg,Welcome Snacks,Fish Snacks,starters
+Sesmi Fish,lunch,nonveg,Welcome Snacks,Fish Snacks,starters
+Fish Pakoda,lunch,nonveg,Welcome Snacks,Fish Snacks,starters
+Thai Fish Bite,lunch,nonveg,Welcome Snacks,Fish Snacks,starters
+Fish Fry (Murrel With Bone),lunch,nonveg,Welcome Snacks,Fish Snacks,starters
+Fish Amrithsari,lunch,nonveg,Welcome Snacks,Fish Snacks,starters
+Pamphlet Tavva Fish,lunch,nonveg,Welcome Snacks,Fish Snacks,starters
+Tavva Fish Bone (Murrel),lunch,nonveg,Welcome Snacks,Fish Snacks,starters
+Tavva Fish Boneless (Murrel),lunch,nonveg,Welcome Snacks,Fish Snacks,starters
+Fish Fry (Ravu),lunch,nonveg,Welcome Snacks,Fish Snacks,starters
+Fish Fry (Boche),lunch,nonveg,Welcome Snacks,Fish Snacks,starters
+Keema Shikhampuri,lunch,nonveg,Welcome Snacks,Mutton Snacks,starters
+Mutton Boti Kabab,lunch,nonveg,Welcome Snacks,Mutton Snacks,starters
+Mutton Seekh Kabab,lunch,nonveg,Welcome Snacks,Mutton Snacks,starters
+Mutton Shami Kabab,lunch,nonveg,Welcome Snacks,Mutton Snacks,starters
+Mutton Chops,lunch,nonveg,Welcome Snacks,Mutton Snacks,starters
+Kheema Lukmi,lunch,nonveg,Welcome Snacks,Mutton Snacks,starters
+Nalgonda Mutton Fry,lunch,nonveg,Welcome Snacks,Mutton Snacks,starters
+Keema Balls,lunch,nonveg,Welcome Snacks,Mutton Snacks,starters
+Liver Fry,lunch,nonveg,Welcome Snacks,Mutton Snacks,starters
+Boti Fry,lunch,nonveg,Welcome Snacks,Mutton Snacks,starters
+Kidney Fry,lunch,nonveg,Welcome Snacks,Mutton Snacks,starters
+Pathar ka Ghosh,lunch,nonveg,Welcome Snacks,Mutton Snacks,starters
+Thalakaya Kura,lunch,nonveg,Welcome Snacks,Mutton Snacks,starters
+Liver Kidney Fry,lunch,nonveg,Welcome Snacks,Mutton Snacks,starters
+Kheema Vantine,lunch,nonveg,Welcome Snacks,Mutton Snacks,starters
+Thatti ka Ghosh,lunch,nonveg,Welcome Snacks,Mutton Snacks,starters
+Loose Chilli Prawns,lunch,nonveg,Welcome Snacks,Prawns Snacks,starters
+Golden Fried Prawns,lunch,nonveg,Welcome Snacks,Prawns Snacks,starters
+Pepper Prawns,lunch,nonveg,Welcome Snacks,Prawns Snacks,starters
+Chilli Prawns,lunch,nonveg,Welcome Snacks,Prawns Snacks,starters
+Prawn Pakoda,lunch,nonveg,Welcome Snacks,Prawns Snacks,starters
+Royyala Vepudu,lunch,nonveg,Welcome Snacks,Prawns Snacks,starters
+Tandoori Prawn,lunch,nonveg,Welcome Snacks,Prawns Snacks,starters
+Butter Garlic Prawns,lunch,nonveg,Welcome Snacks,Prawns Snacks,starters
+Mirchi Bajji,lunch,veg,Welcome Snacks,Regular Veg,starters
+Cut Mirchi,lunch,veg,Welcome Snacks,Regular Veg,starters
+Aratikaya Bajji,lunch,veg,Welcome Snacks,Regular Veg,starters
+Pan Bajji,lunch,veg,Welcome Snacks,Regular Veg,starters
+Alu Bajji,lunch,veg,Welcome Snacks,Regular Veg,starters
+Palak Pakoda,lunch,veg,Welcome Snacks,Regular Veg,starters
+Onion Pakoda,lunch,veg,Welcome Snacks,Regular Veg,starters
+Moongdal Pakoda,lunch,veg,Welcome Snacks,Regular Veg,starters
+Alu Bonda,lunch,veg,Welcome Snacks,Regular Veg,starters
+Mini Bonda,lunch,veg,Welcome Snacks,Regular Veg,starters
+Makka Garelu,lunch,veg,Welcome Snacks,Regular Veg,starters
+Masala Wada,lunch,veg,Welcome Snacks,Regular Veg,starters
+Pesara Garelu,lunch,veg,Welcome Snacks,Regular Veg,starters
+Minapa Garelu,lunch,veg,Welcome Snacks,Regular Veg,starters
+Alsanda Garelu,lunch,veg,Welcome Snacks,Regular Veg,starters
+Veg. Bullet,lunch,veg,Welcome Snacks,Regular Veg,starters
+Alu Samosa,lunch,veg,Welcome Snacks,Regular Veg,starters
+Irani Samosa,lunch,veg,Welcome Snacks,Regular Veg,starters
+Corn Somosa,lunch,veg,Welcome Snacks,Regular Veg,starters
+Navratan Mixture,lunch,veg,Welcome Snacks,Regular Veg,starters
+Gold Coin,lunch,veg,Welcome Snacks,Special Veg,starters
+Gold Finger,lunch,veg,Welcome Snacks,Special Veg,starters
+Capsicum Fingers,lunch,veg,Welcome Snacks,Special Veg,starters
+American Sandwich,lunch,veg,Welcome Snacks,Special Veg,starters
+Thiranga Sandwich,lunch,veg,Welcome Snacks,Special Veg,starters
+Sandwich Idly,lunch,veg,Welcome Snacks,Special Veg,starters
+Masala Idly,lunch,veg,Welcome Snacks,Special Veg,starters
+Alu 65,lunch,veg,Welcome Snacks,Special Veg,starters
+Gobi 65,lunch,veg,Welcome Snacks,Special Veg,starters
+Veg. 65,lunch,veg,Welcome Snacks,Special Veg,starters
+Babycorn 65,lunch,veg,Welcome Snacks,Special Veg,starters
+Veg. Manchurian,lunch,veg,Welcome Snacks,Special Veg,starters
+Paneer Manchurian,lunch,veg,Welcome Snacks,Special Veg,starters
+Paneer 777,lunch,veg,Welcome Snacks,Special Veg,starters
+Babycorn Manchurian,lunch,veg,Welcome Snacks,Special Veg,starters
+Gobi Manchurian,lunch,veg,Welcome Snacks,Special Veg,starters
+Pepper Gobi,lunch,veg,Welcome Snacks,Special Veg,starters
+Paneer Pakoda,lunch,veg,Welcome Snacks,Special Veg,starters
+Corn Kernel,lunch,veg,Welcome Snacks,Special Veg,starters
+Corn Kabab,lunch,veg,Welcome Snacks,Special Veg,starters
+Boiled Corn,lunch,veg,Welcome Snacks,Special Veg,starters
+Babycorn Pakoda,lunch,veg,Welcome Snacks,Special Veg,starters
+Moongdal Pakoda,lunch,veg,Welcome Snacks,Special Veg,starters
+Corn Pakoda,lunch,veg,Welcome Snacks,Special Veg,starters
+Babycorn Stick,lunch,veg,Welcome Snacks,Special Veg,starters
+Babycorn Golden Fry,lunch,veg,Welcome Snacks,Special Veg,starters
+Crispy Babycorn,lunch,veg,Welcome Snacks,Special Veg,starters
+Crispy Veg.,lunch,veg,Welcome Snacks,Special Veg,starters
+Paneer Tikka,lunch,veg,Welcome Snacks,Special Veg,starters
+Paneer Stick,lunch,veg,Welcome Snacks,Special Veg,starters
+Veg. Stick,lunch,veg,Welcome Snacks,Special Veg,starters
+Harabara Tikka,lunch,veg,Welcome Snacks,Special Veg,starters
+Pineapple Tikka,lunch,veg,Welcome Snacks,Special Veg,starters
+Coriander Bite,lunch,veg,Welcome Snacks,Special Veg,starters
+Nellore Wada,lunch,veg,Welcome Snacks,Special Veg,starters
+Mini Samosa,lunch,veg,Welcome Snacks,Special Veg,starters
+Corn Samosa,lunch,veg,Welcome Snacks,Special Veg,starters
+Paneer Samosa,lunch,veg,Welcome Snacks,Special Veg,starters
+Irani Samosa,lunch,veg,Welcome Snacks,Special Veg,starters
+Cocktail Samosa,lunch,veg,Welcome Snacks,Special Veg,starters
+Mini Kachori,lunch,veg,Welcome Snacks,Special Veg,starters
+Veg. Cone,lunch,veg,Welcome Snacks,Special Veg,starters
+Veg. Spring Roln,lunch,veg,Welcome Snacks,Special Veg,starters
+Shanghai Roll,lunch,veg,Welcome Snacks,Special Veg,starters
+Dragon Roll,lunch,veg,Welcome Snacks,Special Veg,starters
+Paneer Roll,lunch,veg,Welcome Snacks,Special Veg,starters
+Cheese Roll,lunch,veg,Welcome Snacks,Special Veg,starters
+Corn Roll,lunch,veg,Welcome Snacks,Special Veg,starters
+Cheese Com Roll,lunch,veg,Welcome Snacks,Special Veg,starters
+Thai Cigar Roll,lunch,veg,Welcome Snacks,Special Veg,starters
+Spider Bullet,lunch,veg,Welcome Snacks,Special Veg,starters
+Capsicum Rings,lunch,veg,Welcome Snacks,Special Veg,starters
+Corn Stick,lunch,veg,Welcome Snacks,Special Veg,starters
+Onion Rings,lunch,veg,Welcome Snacks,Special Veg,starters
+Smilies,lunch,veg,Welcome Snacks,Special Veg,starters
+French Fries,lunch,veg,Welcome Snacks,Special Veg,starters
+Veg. Jingaro,lunch,veg,Welcome Snacks,Special Veg,starters
+Veg. Seekh Kabab,lunch,veg,Welcome Snacks,Special Veg,starters
+Chilly Bombs,lunch,veg,Welcome Snacks,Special Veg,starters
+Cheese Ball,lunch,veg,Welcome Snacks,Special Veg,starters
+Tiger Ball,lunch,veg,Welcome Snacks,Special Veg,starters
+Tawwa Paneer,lunch,veg,Welcome Snacks,Special Veg,starters
+Pathar Paneer,lunch,veg,Welcome Snacks,Special Veg,starters
+Paneer Lolly Pop,lunch,veg,Welcome Snacks,Special Veg,starters
+Boiled Pally,lunch,veg,Welcome Snacks,Special Veg,starters
+Masala Pally,lunch,veg,Welcome Snacks,Special Veg,starters
+Green Peas Roast,lunch,veg,Welcome Snacks,Special Veg,starters
+Anapa Gudalu,lunch,veg,Welcome Snacks,Special Veg,starters
+Cheese Pineapple,lunch,veg,Welcome Snacks,Special Veg,starters
+Palak Makkai Kabab,lunch,veg,Welcome Snacks,Special Veg,starters
+Spiral Potato,lunch,veg,Welcome Snacks,Special Veg,starters
+Cheese Toast,lunch,veg,Welcome Snacks,Special Veg,starters
+Bread Paneer Rolls,lunch,veg,Welcome Snacks,Special Veg,starters
+Tortilla Samosa,lunch,veg,Welcome Snacks,Special Veg,starters
+Veg. Packets,lunch,veg,Welcome Snacks,Special Veg,starters
+Potato Lolly Pop,lunch,veg,Welcome Snacks,Special Veg,starters
+Cheese Pakoda,lunch,veg,Welcome Snacks,Special Veg,starters
+Spinach Cheese Rolls,lunch,veg,Welcome Snacks,Special Veg,starters
+Cheese Kachori,lunch,veg,Welcome Snacks,Special Veg,starters
+Baked Bread Rolls,lunch,veg,Welcome Snacks,Special Veg,starters
+Bread Dhahi Wada,lunch,veg,Welcome Snacks,Special Veg,starters
+Oats Cutlet,lunch,veg,Welcome Snacks,Special Veg,starters
+Macaroni Cutlet,lunch,veg,Welcome Snacks,Special Veg,starters
+Paneer Alu Tikka,lunch,veg,Welcome Snacks,Special Veg,starters
+Tanduri Alu,lunch,veg,Welcome Snacks,Special Veg,starters
+Malai Paneer Tikka,lunch,veg,Welcome Snacks,Special Veg,starters
+Voloment,lunch,veg,Welcome Snacks,Special Veg,starters
+Choti Boti Paneer,lunch,veg,Welcome Snacks,Special Veg,starters
+Bhel Poori,lunch,veg,Chaat,,cuisines
+Pav Bhaji,lunch,veg,Chaat,,cuisines
+Paani Poori,lunch,veg,Chaat,,cuisines
+Pudhina Paani Poori,lunch,veg,Chaat,,cuisines
+Chat Pat Paani Poori,lunch,veg,Chaat,,cuisines
+Dhahi Poori,lunch,veg,Chaat,,cuisines
+Ragda Cutlet,lunch,veg,Chaat,,cuisines
+Ragda Samosa,lunch,veg,Chaat,,cuisines
+Dhahi Wada,lunch,veg,Chaat,,cuisines
+Dhahi Papidi,lunch,veg,Chaat,,cuisines
+Bread Sandwich,lunch,veg,Chaat,,cuisines
+Idly Sandwich,lunch,veg,Chaat,,cuisines
+Paneer Tikka,lunch,veg,Chaat,,cuisines
+Pineapple Tikka,lunch,veg,Chaat,,cuisines
+Mashroom Tikka,lunch,veg,Chaat,,cuisines
+Baby Corn Tikka,lunch,veg,Chaat,,cuisines
+Alu Tikka,lunch,veg,Chaat,,cuisines
+Moonglet,lunch,veg,Chaat,,cuisines
+Chole Bathoora,lunch,veg,Chaat,,cuisines
+Raj Bhog,lunch,veg,Chaat,,cuisines
+Hole Dhahi Wada,lunch,veg,Chaat,,cuisines
+Angoori Dhahi Wada,lunch,veg,Chaat,,cuisines
+Raj Kachori,lunch,veg,Chaat,,cuisines
+Alu Laccha Tokri,lunch,veg,Chaat,,cuisines
+Kadai Samosa,lunch,veg,Chaat,,cuisines
+Wada Pav,lunch,veg,Chaat,,cuisines
+Nellore Wada,lunch,veg,Chaat,,cuisines
+Kadai Badam Milk,lunch,veg,Chaat,,cuisines
+Kesar Jilebi,lunch,veg,Chaat,,cuisines
+Veg. Spring Roll,lunch,veg,Chinese,,cuisines
+Shanghai Roll,lunch,veg,Chinese,,cuisines
+Dragon Roll,lunch,veg,Chinese,,cuisines
+Veg. Bullets,lunch,veg,Chinese,,cuisines
+Veg. Manchurian,lunch,veg,Chinese,,cuisines
+Gobi Manchurian,lunch,veg,Chinese,,cuisines
+Babycorn Manchurian,lunch,veg,Chinese,,cuisines
+Paneer Manchurian,lunch,veg,Chinese,,cuisines
+Veg. Stick,lunch,veg,Chinese,,cuisines
+Gold Coin,lunch,veg,Chinese,,cuisines
+Alu 65,lunch,veg,Chinese,,cuisines
+Gobi 65,lunch,veg,Chinese,,cuisines
+Babycorn 65,lunch,veg,Chinese,,cuisines
+Babycorn Pakoda,lunch,veg,Chinese,,cuisines
+Paneer Pakoda,lunch,veg,Chinese,,cuisines
+Sweetcorn Pakoda,lunch,veg,Chinese,,cuisines
+Veg. Corn Soup,lunch,veg,Chinese,,cuisines
+Sweet Corn Soup,lunch,veg,Chinese,,cuisines
+Tomato Soup,lunch,veg,Chinese,,cuisines
+Hot & Sour Soup (Veg.),lunch,veg,Chinese,,cuisines
+Veg. Fried Rice,lunch,veg,Chinese,,cuisines
+Mexican Rice,lunch,veg,Chinese,,cuisines
+Mongolian Rice,lunch,veg,Chinese,,cuisines
+Shezwan Rice,lunch,veg,Chinese,,cuisines
+Kada,lunch,veg,Chinese,,cuisines
+Bamboo Rice,lunch,veg,Chinese,,cuisines
+Shezwan Noodles,lunch,veg,Chinese,,cuisines
+Veg. Soft Noodles,lunch,veg,Chinese,,cuisines
+Fried Noodles,lunch,veg,Chinese,,cuisines
+Hongkong Noodles,lunch,veg,Chinese,,cuisines
+Mongolian Noodles,lunch,veg,Chinese,,cuisines
+Garlic Noodles,lunch,veg,Chinese,,cuisines
+Singapore Noodles,lunch,veg,Chinese,,cuisines
+Hot Garlic Sauce,lunch,veg,Chinese,,cuisines
+American Chopsoy,lunch,veg,Chinese,,cuisines
+Veg. Chow Chow,lunch,veg,Chinese,,cuisines
+Veg Manchurian (Wet),lunch,veg,Chinese,,cuisines
+Mongolian Hok Pok,lunch,veg,Chinese,,cuisines
+Veg. Lasania,lunch,veg,Chinese,,cuisines
+Thai Veg. (Wet),lunch,veg,Chinese,,cuisines
+Chilli Veg (Wet),lunch,veg,Chinese,,cuisines
+Chilli Paneer,lunch,veg,Chinese,,cuisines
+Veg. Momos,lunch,veg,Chinese,,cuisines
+Chicken Hot & Sour Soup,lunch,nonveg,Chinese,,cuisines
+Chicken Corn Soup,lunch,nonveg,Chinese,,cuisines
+Egg Fried Rice,lunch,nonveg,Chinese,,cuisines
+Chicken Fried Rice,lunch,nonveg,Chinese,,cuisines
+Mixed Fried Rice,lunch,nonveg,Chinese,,cuisines
+American Chopsoy (Non-Veg),lunch,nonveg,Chinese,,cuisines
+Chilly Chicken Wet,lunch,nonveg,Chinese,,cuisines
+Chicken Manchurian Wet,lunch,nonveg,Chinese,,cuisines
+Shezwan Chicken Wet,lunch,nonveg,Chinese,,cuisines
+Chicken Sizzler,lunch,nonveg,Chinese,,cuisines
+Garlic Chicken (Dry & Wet),lunch,nonveg,Chinese,,cuisines
+Chicken Bhel Stick,lunch,nonveg,Chinese,,cuisines
+Chicken Saate,lunch,nonveg,Chinese,,cuisines
+Chicken Momos,lunch,nonveg,Chinese,,cuisines
+Butter Chicken,lunch,nonveg,Punjabi Dhaba,,cuisines
+Anda Bhurji,lunch,nonveg,Punjabi Dhaba,,cuisines
+Sarson ka Saag,lunch,veg,Punjabi Dhaba,,cuisines
+Makki ki Roti,lunch,veg,Punjabi Dhaba,,cuisines
+Amritsari Kulcha,lunch,veg,Punjabi Dhaba,,cuisines
+Punjabi Chole,lunch,veg,Punjabi Dhaba,,cuisines
+Dal Makhni,lunch,veg,Punjabi Dhaba,,cuisines
+Kada Pakoda,lunch,veg,Punjabi Dhaba,,cuisines
+Dal Fry,lunch,veg,Punjabi Dhaba,,cuisines
+Paneer Bhurji,lunch,veg,Punjabi Dhaba,,cuisines
+Lababdar Paneer,lunch,veg,Punjabi Dhaba,,cuisines
+Lichi Diwani,lunch,veg,Punjabi Dhaba,,cuisines
+Dal Tadka,lunch,veg,Punjabi Dhaba,,cuisines
+Chana Pindi,lunch,veg,Punjabi Dhaba,,cuisines
+Red Pasta,lunch,veg,Italian,,cuisines
+White Pasta,lunch,veg,Italian,,cuisines
+Garlic Bread,lunch,veg,Italian,,cuisines
+Pepper Pizza,lunch,veg,Italian,,cuisines
+Mini Pizza,lunch,veg,Italian,,cuisines
+Red Pepper Olives Pizza,lunch,veg,Italian,,cuisines
+Corn Pizza,lunch,veg,Italian,,cuisines
+Special Pizza,lunch,veg,Italian,,cuisines
+Classic Pizza,lunch,veg,Italian,,cuisines
+Cheese Pizza,lunch,veg,Italian,,cuisines
+Chicken Pizza,lunch,nonveg,Italian,,cuisines
+Thin Crust Pizza,lunch,veg,Italian,,cuisines
+Nacho Salsa,lunch,veg,Italian,,cuisines
+Veg. Buritos,lunch,veg,Mexican,,cuisines
+Chicken Buritos,lunch,nonveg,Mexican,,cuisines
+Mexican Green Rice,lunch,veg,Mexican,,cuisines
+Mexican Fried Rice,lunch,veg,Mexican,,cuisines
+Mexican Chacos,lunch,veg,Mexican,,cuisines
+Corn Bhel,lunch,veg,Mexican,,cuisines
+Corn Chat,lunch,veg,Mexican,,cuisines
+Tacos with Salsa,lunch,veg,Mexican,,cuisines
+Nachos,lunch,veg,Mexican,,cuisines
+Burrito,lunch,veg,Mexican,,cuisines
+Fajitas,lunch,veg,Mexican,,cuisines
+Mexican rap,lunch,veg,Mexican,,cuisines
+Quesadilla,lunch,veg,Mexican,,cuisines
+Pita Bread,lunch,veg,Continental,,cuisines
+Falafel,lunch,veg,Continental,,cuisines
+Mutabak,lunch,nonveg,Continental,,cuisines
+Aloo Rosti,lunch,veg,Continental,,cuisines
+Banana Rosti,lunch,veg,Continental,,cuisines
+Paneer Shawarma,lunch,veg,Continental,,cuisines
+Hyderabadi Mutton Biryani,lunch,nonveg,Rice,Mutton ,main
+Mutton Sofiyani Biryani,lunch,nonveg,Rice,Mutton ,main
+Hyderabadi Chicken Biryani,lunch,nonveg,Rice,Chicken ,main
+Chicken Sofiyani Biryani,lunch,nonveg,Rice,Chicken ,main
+Chicken Pulav,lunch,nonveg,Rice,Chicken ,main
+Bachelor Chicken Biryani,lunch,nonveg,Rice,Chicken ,main
+Bachelor Mutton Biryani,lunch,nonveg,Rice,Mutton,main
+Keema Biryani,lunch,nonveg,Rice,Mutton,main
+Keema Prawns Biryani,lunch,nonveg,Rice,Prawns,main
+Prawns Pulav,lunch,nonveg,Rice,Prawns,main
+Ulavacharu Chicken Biryani,lunch,nonveg,Rice,Chicken ,main
+Egg Biryani,lunch,nonveg,Rice,Egg,main
+Chicken Fried Rice,lunch,nonveg,Rice,Chicken ,main
+Keema Rice,lunch,nonveg,Rice,Mutton,main
+Mixed Fried Rice,lunch,nonveg,Rice,Chicken,main
+Egg Fried Rice,lunch,nonveg,Rice,Egg,main
+Dhumka Chicken,lunch,nonveg,Curries,Chicken,main
+Methi Chicken,lunch,nonveg,Curries,Chicken,main
+Chilli Chicken,lunch,nonveg,Curries,Chicken,main
+Ginger Chicken,lunch,nonveg,Curries,Chicken,main
+Coriander Chicken,lunch,nonveg,Curries,Chicken,main
+Gongoora Chicken,lunch,nonveg,Curries,Chicken,main
+Moghalai Chicken,lunch,nonveg,Curries,Chicken,main
+Hariyali Chicken,lunch,nonveg,Curries,Chicken,main
+Country Chicken (Fry/Wet),lunch,nonveg,Curries,Chicken,main
+Butter Chicken,lunch,nonveg,Curries,Chicken,main
+Chicken Masala,lunch,nonveg,Curries,Chicken,main
+Chicken Keema,lunch,nonveg,Curries,Chicken,main
+Chilly Chicken Wet (Chinese),lunch,nonveg,Curries,Chicken,main
+Chicken Manchurian Wet,lunch,nonveg,Curries,Chicken,main
+Chicken Diwani Handi,lunch,nonveg,Curries,Chicken,main
+Ankapuri Chicken,lunch,nonveg,Curries,Chicken,main
+Mutton Curry,lunch,nonveg,Curries,Mutton,main
+Moghalai Mutton,lunch,nonveg,Curries,Mutton,main
+Mutton Pasinda,lunch,nonveg,Curries,Mutton,main
+Mutton Kali Mirchi,lunch,nonveg,Curries,Mutton,main
+Mutton Roganjosh,lunch,nonveg,Curries,Mutton,main
+Gongoora Maamsam,lunch,nonveg,Curries,Mutton,main
+Chukkakura Maamsam,lunch,nonveg,Curries,Mutton,main
+Palak Mutton,lunch,nonveg,Curries,Mutton,main
+Munakkaya Mutton,lunch,nonveg,Curries,Mutton,main
+Liver Fry,lunch,nonveg,Curries,Mutton,main
+Kidney Fry,lunch,nonveg,Curries,Mutton,main
+Nalgonda Mutton Fry,lunch,nonveg,Curries,Mutton,main
+Kowu Charu,lunch,nonveg,Curries,Mutton,main
+Bokkala Charu,lunch,nonveg,Curries,Mutton,main
+Mutton Pulusu,lunch,nonveg,Curries,Mutton,main
+Mutton Dalcha,lunch,nonveg,Curries,Mutton,main
+Boti Dhalcha,lunch,nonveg,Curries,Mutton,main
+Thalakaya Kura,lunch,nonveg,Curries,Mutton,main
+Keema Batana,lunch,nonveg,Curries,Mutton,main
+Keema Palak,lunch,nonveg,Curries,Mutton,main
+Keema Methi,lunch,nonveg,Curries,Mutton,main
+Keema Koftha Curry,lunch,nonveg,Curries,Mutton,main
+Keema Kidney Curry,lunch,nonveg,Curries,Mutton,main
+Paya,lunch,nonveg,Curries,Mutton,main
+Haleem,lunch,nonveg,Curries,Mutton,main
+Morag Soup,lunch,nonveg,Curries,Mutton,main
+Finger Fish,lunch,nonveg,Curries,Fish,main
+Apollo Fish,lunch,nonveg,Curries,Fish,main
+Fried Fish,lunch,nonveg,Curries,Fish,main
+Chilly Fried Fish,lunch,nonveg,Curries,Fish,main
+Pepper Fish,lunch,nonveg,Curries,Fish,main
+Fish Fry (Murrel with bone),lunch,nonveg,Curries,Fish,main
+Chapala Pulusu (Murrel),lunch,nonveg,Curries,Fish,main
+Chapala Pulusu (Boche),lunch,nonveg,Curries,Fish,main
+Jellala Pulusu,lunch,nonveg,Curries,Fish,main
+Bommidala Pulusu,lunch,nonveg,Curries,Fish,main
+Tawwa Pamphlet,lunch,nonveg,Curries,Fish,main
+Masala Tawwa Fish,lunch,nonveg,Curries,Fish,main
+Fish Fry (Rava),lunch,nonveg,Curries,Fish,main
+Fish Fry (Boche),lunch,nonveg,Curries,Fish,main
+Ginger Prawns ,lunch,nonveg,Curries,Prawns,main
+Loose Prawns,lunch,nonveg,Curries,Prawns,main
+Chilli Prawns,lunch,nonveg,Curries,Prawns,main
+Fried Prawns,lunch,nonveg,Curries,Prawns,main
+Prawn Iguru,lunch,nonveg,Curries,Prawns,main
+Boiled Egg,lunch,nonveg,Curries,Egg,main
+Egg Oil Fry,lunch,nonveg,Curries,Egg,main
+Egg 65,lunch,nonveg,Curries,Egg,main
+Egg Manchurian,lunch,nonveg,Curries,Egg,main
+Gudla Pulusu,lunch,nonveg,Curries,Egg,main
+Egg Masala,lunch,nonveg,Curries,Egg,main
+Egg Mirchi Masala,lunch,nonveg,Curries,Egg,main
+Egg Cutlet,lunch,nonveg,Curries,Egg,main
+Gudla Miram,lunch,nonveg,Curries,Egg,main
+Egg Burji,lunch,nonveg,Curries,Egg,main
+Egg Ulawa Charu,lunch,nonveg,Curries,Egg,main
+Egg Tomato Cut,lunch,nonveg,Curries,Egg,main
+Tomato Kodi Gudlu,lunch,nonveg,Curries,Egg,main
+Gongura Kodi Gudlu,lunch,nonveg,Curries,Egg,main
+Egg Cutlet,lunch,nonveg,Curries,Egg,main
+Veg Dhum ka Biryani,lunch,veg,Rice,,main
+Veg Pulav,lunch,veg,Rice,,main
+Paneer Pulav,lunch,veg,Rice,,main
+Peas Pulav,lunch,veg,Rice,,main
+Kichidi Pulav,lunch,veg,Rice,,main
+Kaju Pulav,lunch,veg,Rice,,main
+Kashmiri Pulav,lunch,veg,Rice,,main
+Mutter Methi Pulav,lunch,veg,Rice,,main
+Chinese Fried Rice,lunch,veg,Rice,,main
+Avakaya Biryani,lunch,veg,Rice,,main
+Mealmaker Biryani,lunch,veg,Rice,,main
+Mushroom Biryani,lunch,veg,Rice,,main
+Panasa Biryani,lunch,veg,Rice,,main
+Mexican Rice,lunch,veg,Rice,,main
+Seven Jewel Rice,lunch,veg,Rice,,main
+Bagara Rice,lunch,veg,Rice,,main
+Ulavacharu Biryani,lunch,veg,Rice,,main
+Jeera Rice,lunch,veg,Rice,,main
+Shezwan Rice,lunch,veg,Rice,,main
+Spring Rice,lunch,veg,Rice,,main
+Gobi Rice,lunch,veg,Rice,,main
+Capsicum Rice,lunch,veg,Rice,,main
+Vangi Bath,lunch,veg,Rice,,main
+Ginger Rice,lunch,veg,Rice,,main
+Dal Kichidi,lunch,veg,Rice,,main
+Ginger Mushroom Rice,lunch,veg,Rice,,main
+Pudina Rice,lunch,veg,Rice,,main
+Pudina Corn Rice,lunch,veg,Rice,,main
+Palak Rice,lunch,veg,Rice,,main
+Karivepaku Rice,lunch,veg,Rice,,main
+Coconut Rice,lunch,veg,Rice,,main
+Tomato Rice,lunch,veg,Rice,,main
+Masala Rice,lunch,veg,Rice,,main
+Pongal,lunch,veg,Rice,,main
+Pulihora (Tamarind),lunch,veg,Rice,,main
+Lemon Rice,lunch,veg,Rice,,main
+MamidiKaya Pulihora,lunch,veg,Rice,,main
+Sambar Rice,lunch,veg,Rice,,main
+Curd Rice,lunch,veg,Rice,,main
+Alu Bath,lunch,veg,Rice,,main
+Bishi Beli Bath,lunch,veg,Rice,,main
+Raagi Sankati,lunch,veg,Rice,,main
+Raagi Muddha,lunch,veg,Rice,,main
+Live Pickle Rice,lunch,veg,Rice,,main
+Paneer Butter Masala,lunch,veg,Curries,Special ,main
+Paneer Tikka Masala,lunch,veg,Curries,Special ,main
+Paneer Babycorn Masala,lunch,veg,Curries,Special ,main
+Paneer Capsicum Masala,lunch,veg,Curries,Special ,main
+Paneer Chatpata,lunch,veg,Curries,Special ,main
+Paneer do Pyasa,lunch,veg,Curries,Special ,main
+Bhendi do Pyasa,lunch,veg,Curries,Special ,main
+Hariyali Paneer,lunch,veg,Curries,Special ,main
+Kaju Paneer,lunch,veg,Curries,Special ,main
+Methi Chaman,lunch,veg,Curries,Special ,main
+Veg. Jaipuri,lunch,veg,Curries,Special ,main
+Achari Paneer,lunch,veg,Curries,Special ,main
+Achari Alu,lunch,veg,Curries,Special ,main
+Palak Paneer,lunch,veg,Curries,Special ,main
+Kadai Paneer,lunch,veg,Curries,Special ,main
+Chilli Paneer (Chinese),lunch,veg,Curries,Special ,main
+Ginger Paneer,lunch,veg,Curries,Special ,main
+Navratan Kurma,lunch,veg,Curries,Special ,main
+Paneer Shahi Kurma,lunch,veg,Curries,Special ,main
+Veg. Chatpata,lunch,veg,Curries,Special ,main
+Veg. Supreme,lunch,veg,Curries,Special ,main
+Veg.Kollapuri,lunch,veg,Curries,Special ,main
+Corn Palak,lunch,veg,Curries,Special ,main
+Dhum Alu,lunch,veg,Curries,Special ,main
+Tawa Vegetable,lunch,veg,Curries,Special ,main
+Babycorn Palak,lunch,veg,Curries,Special ,main
+Babycorn Do Pyaza,lunch,veg,Curries,Special ,main
+Babycorn Masala,lunch,veg,Curries,Special ,main
+Ginger Babycorn,lunch,veg,Curries,Special ,main
+Ginger Alu,lunch,veg,Curries,Special ,main
+Ginger Gobi,lunch,veg,Curries,Special ,main
+Ginger Veg.,lunch,veg,Curries,Special ,main
+Ginger Mushroom,lunch,veg,Curries,Special ,main
+Mushroom Kaju,lunch,veg,Curries,Special ,main
+Munakkaya Kaju,lunch,veg,Curries,Special ,main
+Malai koftha,lunch,veg,Curries,Special ,main
+Palak Koftha Curry,lunch,veg,Curries,Special ,main
+Veg. Diwani Handi,lunch,veg,Curries,Special ,main
+Mirchi Ka Saalan,lunch,veg,Curries,Regular,main
+Bagara Baingan,lunch,veg,Curries,Regular,main
+Capsicum Masala,lunch,veg,Curries,Regular,main
+Tomato Masala,lunch,veg,Curries,Regular,main
+Capsicum Tomato Masala,lunch,veg,Curries,Regular,main
+Mirchi Tomato Masala,lunch,veg,Curries,Regular,main
+Dondakaya Masala,lunch,veg,Curries,Regular,main
+Sorakaya Masala,lunch,veg,Curries,Regular,main
+Beerakaya Masala,lunch,veg,Curries,Regular,main
+Mealmaker Masala,lunch,veg,Curries,Regular,main
+Rajma Masala,lunch,veg,Curries,Regular,main
+Chole Masala,lunch,veg,Curries,Regular,main
+Bhendi Masala,lunch,veg,Curries,Regular,main
+Kaddu Koftha Curry,lunch,veg,Curries,Regular,main
+Sorakaya Pulusu,lunch,veg,Curries,Regular,main
+Chama Gadda Pulusu,lunch,veg,Curries,Regular,main
+Kanda Gadda Pulusu,lunch,veg,Curries,Regular,main
+Wada Pulusu,lunch,veg,Curries,Regular,main
+Gumadikaya Pulusu,lunch,veg,Curries,Regular,main
+Bendakaya Pulusu,lunch,veg,Curries,Regular,main
+Kakarakaya Pulusu,lunch,veg,Curries,Regular,main
+Attu Thunakala Pulusu,lunch,veg,Curries,Regular,main
+Beerakaya Alsandalu,lunch,veg,Curries,Regular,main
+Beerakaya Methi,lunch,veg,Curries,Regular,main
+Beerakaya Boondi,lunch,veg,Curries,Regular,main
+Alu Palak,lunch,veg,Curries,Regular,main
+Chana Palak,lunch,veg,Curries,Regular,main
+Chikkudukaya Alu,lunch,veg,Curries,Regular,main
+Vankaya Alu Tomato,lunch,veg,Curries,Regular,main
+Dosakaya Tomato,lunch,veg,Curries,Regular,main
+Alu Gobi ,lunch,veg,Curries,Regular,main
+Alu Mutter,lunch,veg,Curries,Regular,main
+Mixed Veg Kurma,lunch,veg,Curries,Regular,main
+Gangavali Tomato,lunch,veg,Curries,Regular,main
+Aviyal,lunch,veg,Curries,Regular,main
+Alu Methi Fry,lunch,veg,Curries,Fry Items,main
+Alu Gobi Fry,lunch,veg,Curries,Fry Items,main
+Alu Capsicum Fry,lunch,veg,Curries,Fry Items,main
+Jeera Aloo,lunch,veg,Curries,Fry Items,main
+Bendi Kaju Fry,lunch,veg,Curries,Fry Items,main
+Jaipur Bendi,lunch,veg,Curries,Fry Items,main
+Chat Pat Bendi,lunch,veg,Curries,Fry Items,main
+Kanda Kaju Fry,lunch,veg,Curries,Fry Items,main
+Kanda Thurimi Fry,lunch,veg,Curries,Fry Items,main
+Donda Kaju Fry,lunch,veg,Curries,Fry Items,main
+Aratikaya Fry,lunch,veg,Curries,Fry Items,main
+Chamagadda Fry,lunch,veg,Curries,Fry Items,main
+Beans Coconut Fry,lunch,veg,Curries,Fry Items,main
+Kakarakaya Fry,lunch,veg,Curries,Fry Items,main
+Sorakaya Fry,lunch,veg,Curries,Fry Items,main
+Chikkudu Kaya Fry,lunch,veg,Curries,Fry Items,main
+Gokarakaya Fry,lunch,veg,Curries,Fry Items,main
+Cabbage Coconut Fry,lunch,veg,Curries,Fry Items,main
+Panasa Pottu Fry,lunch,veg,Curries,Fry Items,main
+Nutrilla Kaju Fry,lunch,veg,Curries,Fry Items,main
+Nutrilla Beans Fry,lunch,veg,Curries,Fry Items,main
+Nutrilla Palak Fry,lunch,veg,Curries,Fry Items,main
+Guthivankaya Fry,lunch,veg,Curries,Fry Items,main
+Mixed Vegetable Fry,lunch,veg,Curries,Fry Items,main
+Vankaya Pakoda,lunch,veg,Curries,Fry Items,main
+Dondakaya Pakoda,lunch,veg,Curries,Fry Items,main
+Stuffed Capsicum,lunch,veg,Curries,Fry Items,main
+Pepper Brinjal fry,lunch,veg,Curries,Fry Items,main
+Gobi Besan Fry,lunch,veg,Curries,Fry Items,main
+Palak Dal,lunch,veg,Curries,Dals,main
+Palak Mango Dal,lunch,veg,Curries,Dals,main
+Gangabavi Mango Dal,lunch,veg,Curries,Dals,main
+Chukkakura Pappu,lunch,veg,Curries,Dals,main
+Bachalikura Pappu,lunch,veg,Curries,Dals,main
+Gongoora Pappu,lunch,veg,Curries,Dals,main
+Tomato Pappu,lunch,veg,Curries,Dals,main
+Mamidi Kaya Pappu,lunch,veg,Curries,Dals,main
+Mudda Pappu,lunch,veg,Curries,Dals,main
+Beerakaya Pappu,lunch,veg,Curries,Dals,main
+Tomato Pesara Pappu,lunch,veg,Curries,Dals,main
+Chinthakaya Pappu,lunch,veg,Curries,Dals,main
+Dosakaya Pappu,lunch,veg,Curries,Dals,main
+Nimmakaya Pappu,lunch,veg,Curries,Dals,main
+Thota Kura Pappu,lunch,veg,Curries,Dals,main
+Rajma Dal,lunch,veg,Curries,Dals,main
+Dal Fry,lunch,veg,Curries,Dals,main
+Dal Makhani,lunch,veg,Curries,Dals,main
+Tadka Dal,lunch,veg,Curries,Dals,main
+Drumstick Sambar,lunch,veg,Curries,Rasams,main
+Mixed Sambar,lunch,veg,Curries,Rasams,main
+Madras Sambar,lunch,veg,Curries,Rasams,main
+Pappucharu,lunch,veg,Curries,Rasams,main
+Veg. Dhalcha,lunch,veg,Curries,Rasams,main
+Mukkala Pulusu,lunch,veg,Curries,Rasams,main
+Munakkaya Charu,lunch,veg,Curries,Rasams,main
+Tomato Charu,lunch,veg,Curries,Rasams,main
+Ulawa Charu,lunch,veg,Curries,Rasams,main
+Bendakaya Charu,lunch,veg,Curries,Rasams,main
+Tomato Rasam,lunch,veg,Curries,Rasams,main
+Miryala Rasam,lunch,veg,Curries,Rasams,main
+Beetroot Rasam,lunch,veg,Curries,Rasams,main
+Udipi Rasam,lunch,veg,Curries,Rasams,main
+Pachi Pulusu,lunch,veg,Curries,Rasams,main
+Majjiga Pulusu,lunch,veg,Curries,Rasams,main
+Kadi Pakoda,lunch,veg,Curries,Rasams,main
+Dosa Avakaya,lunch,veg,General Items,Pickels/Powders,main
+Gobi Avakaya,lunch,veg,General Items,Pickels/Powders,main
+Donda Avakaya,lunch,veg,General Items,Pickels/Powders,main
+Mango Avakaya,lunch,veg,General Items,Pickels/Powders,main
+Lime Pickle,lunch,veg,General Items,Pickels/Powders,main
+Mixed Veg. Pickle,lunch,veg,General Items,Pickels/Powders,main
+Gongoora Pickle,lunch,veg,General Items,Pickels/Powders,main
+Gongoora Chutney,lunch,veg,General Items,Pickels/Powders,main
+Tomato Pickle,lunch,veg,General Items,Pickels/Powders,main
+Tomato Chutney,lunch,veg,General Items,Pickels/Powders,main
+Cabbage Chutney,lunch,veg,General Items,Pickels/Powders,main
+Carrot Chutney,lunch,veg,General Items,Pickels/Powders,main
+Allam Chutney,lunch,veg,General Items,Pickels/Powders,main
+Beerakaya Chutney,lunch,veg,General Items,Pickels/Powders,main
+Dosakaya Chutney,lunch,veg,General Items,Pickels/Powders,main
+Vankaya Dosakaya Chutney,lunch,veg,General Items,Pickels/Powders,main
+Pudina Chutney,lunch,veg,General Items,Pickels/Powders,main
+Pudina Coconut Chutney,lunch,veg,General Items,Pickels/Powders,main
+Coconut Chutney,lunch,veg,General Items,Pickels/Powders,main
+Mango Coconut Chutney,lunch,veg,General Items,Pickels/Powders,main
+Chukkakura Chutney,lunch,veg,General Items,Pickels/Powders,main
+Kothimeera Chutney,lunch,veg,General Items,Pickels/Powders,main
+Kandi Podi,lunch,veg,General Items,Pickels/Powders,main
+Nallakaram Podi,lunch,veg,General Items,Pickels/Powders,main
+Kariyepak Podi,lunch,veg,General Items,Pickels/Powders,main
+Putnaala Podi,lunch,veg,General Items,Pickels/Powders,main
+Kobbari Kaaram Podi,lunch,veg,General Items,Pickels/Powders,main
+Nuvvula Kaaram,lunch,veg,General Items,Pickels/Powders,main
+Ellipaya Kaaram,lunch,veg,General Items,Pickels/Powders,main
+Onion Raitha,lunch,veg,General Items,Raitha,main
+Mixed Raitha,lunch,veg,General Items,Raitha,main
+Keera Raitha,lunch,veg,General Items,Raitha,main
+Tomato Raitha,lunch,veg,General Items,Raitha,main
+Boondi Raitha,lunch,veg,General Items,Raitha,main
+Potlakaya Raitha,lunch,veg,General Items,Raitha,main
+Pineapple Raitha,lunch,veg,General Items,Raitha,main
+Plain Papad,lunch,veg,General Items,Papad,main
+Masala Papad,lunch,veg,General Items,Papad,main
+Vadiyalu,lunch,veg,General Items,Papad,main
+Curd Chillies,lunch,veg,General Items,Papad,main
+Alu Chips,lunch,veg,General Items,Papad,main
+Frymes,lunch,veg,General Items,Papad,main
+Disco Papad,lunch,veg,General Items,Papad,main
+Veg. Salad,lunch,veg,General Items,Salads,main
+Keera Salad,lunch,veg,General Items,Salads,main
+Onion Salad,lunch,veg,General Items,Salads,main
+Sprouted Salad,lunch,veg,General Items,Salads,main
+Alu Chana Chat,lunch,veg,General Items,Salads,main
+Chana Chat,lunch,veg,General Items,Salads,main
+Pasta Salad,lunch,veg,General Items,Salads,main
+Tandoori Salad,lunch,veg,General Items,Salads,main
+Russian Salad,lunch,veg,General Items,Salads,main
+Cabbage Lemon Salad,lunch,veg,General Items,Salads,main
+Spl. Salads,lunch,veg,General Items,Salads,main
+Mexican Egg Salad,lunch,veg,General Items,Salads,main
+Gulab Jamoon,lunch,veg,Sweets,Regular,desserts
+Kala Jamoon,lunch,veg,Sweets,Regular,desserts
+Disco Jamoon,lunch,veg,Sweets,Regular,desserts
+Baadhusha,lunch,veg,Sweets,Regular,desserts
+Mothichur Laddu,lunch,veg,Sweets,Regular,desserts
+Boondi Laddu,lunch,veg,Sweets,Regular,desserts
+Mysore Pak,lunch,veg,Sweets,Regular,desserts
+Milk Mysore Pak,lunch,veg,Sweets,Regular,desserts
+Madatha Kaaja,lunch,veg,Sweets,Regular,desserts
+Kakinada Kaaja,lunch,veg,Sweets,Regular,desserts
+Jhangri,lunch,veg,Sweets,Regular,desserts
+Jilebi,lunch,veg,Sweets,Regular,desserts
+Mini Jilebi,lunch,veg,Sweets,Regular,desserts
+Khova Burfi,lunch,veg,Sweets,Regular,desserts
+Khova Garjelu,lunch,veg,Sweets,Regular,desserts
+Malai Roll,lunch,veg,Sweets,Regular,desserts
+Kaddu Ka Kheer,lunch,veg,Sweets,Regular,desserts
+Kaddu Ka Halwa,lunch,veg,Sweets,Regular,desserts
+Carrot Halwa,lunch,veg,Sweets,Regular,desserts
+Gaajar Ka Halwa,lunch,veg,Sweets,Regular,desserts
+Gummadi Kaya Halwa,lunch,veg,Sweets,Regular,desserts
+Double Ka Meeta,lunch,veg,Sweets,Regular,desserts
+Rice Ferny,lunch,veg,Sweets,Regular,desserts
+Bobbatlu / Bakshalu,lunch,veg,Sweets,Regular,desserts
+Poornam Boorelu,lunch,veg,Sweets,Regular,desserts
+Chocolate Burfi,lunch,veg,Sweets,Regular,desserts
+Sweet Pongal,lunch,veg,Sweets,Regular,desserts
+Fruit Salad Custard,lunch,veg,Sweets,Special ,desserts
+Khubhani Ka Meeta,lunch,veg,Sweets,Special ,desserts
+Sabid Khubhani Ka Meeta,lunch,veg,Sweets,Special ,desserts
+Khubhani Tripple,lunch,veg,Sweets,Special ,desserts
+Apricot Delite,lunch,veg,Sweets,Special ,desserts
+Tawwa Mithai,lunch,veg,Sweets,Special ,desserts
+Tawwa Jamun,lunch,veg,Sweets,Special ,desserts
+Jilebi With Rabdi,lunch,veg,Sweets,Special ,desserts
+Mango Rabdi,lunch,veg,Sweets,Special ,desserts
+Dryfruit Rabdi,lunch,veg,Sweets,Special ,desserts
+Fruit Rabdi,lunch,veg,Sweets,Special ,desserts
+Jamun Rabdi,lunch,veg,Sweets,Special ,desserts
+Rasgulla,lunch,veg,Sweets,Special ,desserts
+Baked Rasgulla,lunch,veg,Sweets,Special ,desserts
+Ras Malai,lunch,veg,Sweets,Special ,desserts
+Ras Madhuri,lunch,veg,Sweets,Special ,desserts
+Raaj Bhog,lunch,veg,Sweets,Special ,desserts
+Paneer Jilebi,lunch,veg,Sweets,Special ,desserts
+Kesari Jilebi,lunch,veg,Sweets,Special ,desserts
+Angoori Ras Malai,lunch,veg,Sweets,Special ,desserts
+Baasundi,lunch,veg,Sweets,Special ,desserts
+Lichi Gulla,lunch,veg,Sweets,Special ,desserts
+Lichi Ferney,lunch,veg,Sweets,Special ,desserts
+Maal Puva,lunch,veg,Sweets,Special ,desserts
+Indra Poori,lunch,veg,Sweets,Special ,desserts
+Pan Peta,lunch,veg,Sweets,Special ,desserts
+Nawabi Fruit Salad,lunch,veg,Sweets,Special ,desserts
+Vannila,lunch,veg,Ice Creams,Regular,desserts
+Strawberry,lunch,veg,Ice Creams,Regular,desserts
+Orange,lunch,veg,Ice Creams,Regular,desserts
+Pineapple,lunch,veg,Ice Creams,Regular,desserts
+Mango,lunch,veg,Ice Creams,Regular,desserts
+Chocolate Ripple,lunch,veg,Ice Creams,Regular,desserts
+Strawberry Ripple,lunch,veg,Ice Creams,Regular,desserts
+Chocolate,lunch,veg,Ice Creams,Special ,desserts
+Mango,lunch,veg,Ice Creams,Special ,desserts
+Seethapal,lunch,veg,Ice Creams,Special ,desserts
+Chaco Chips,lunch,veg,Ice Creams,Special ,desserts
+Pista,lunch,veg,Ice Creams,Special ,desserts
+Butter Scotch,lunch,veg,Ice Creams,Special ,desserts
+Kulfi Malai,lunch,veg,Ice Creams,Special ,desserts
+Honeymoon Delite,lunch,veg,Ice Creams,Special ,desserts
+Paina Chikki,lunch,veg,Ice Creams,Special ,desserts
+Honey Almond,lunch,veg,Ice Creams,Special ,desserts
+Dry Fruit Temptation,lunch,veg,Ice Creams,Special ,desserts
+Mello Jello,lunch,veg,Ice Creams,Special ,desserts
+Beri Bonanja,lunch,veg,Ice Creams,Special ,desserts
+Black Current,lunch,veg,Ice Creams,Special ,desserts
+Anjeer Badam,lunch,veg,Ice Creams,Special ,desserts
+Caremel Nuts,lunch,veg,Ice Creams,Special ,desserts
+Chaco Roco,lunch,veg,Ice Creams,Special ,desserts
+Bon Bon Stick,lunch,veg,Ice Creams,Special ,desserts
+Belgium Dark Chocolate,lunch,veg,Ice Creams,Special ,desserts
+Jamaican Chaco Fadge,lunch,veg,Ice Creams,Special ,desserts
+ Mini Chaco Bar,lunch,veg,Ice Creams,Special ,desserts
+Mini Cone,lunch,veg,Ice Creams,Special ,desserts
+Orange Bar,lunch,veg,Ice Creams,Special ,desserts
+Mango Bar,lunch,veg,Ice Creams,Special ,desserts
+Kassata,lunch,veg,Ice Creams,Special ,desserts
+Single Sundaes,lunch,veg,Ice Creams,Special ,desserts
+Double Sundaes,lunch,veg,Ice Creams,Special ,desserts
+Mixed Fruit Sundaes,lunch,veg,Ice Creams,Special ,desserts
+ Ice Cream Mela,lunch,veg,Ice Creams,Special ,desserts
+Cream Stone,lunch,veg,Ice Creams,Special ,desserts
+ Mango Duet Stick,lunch,veg,Ice Creams,Special ,desserts
+Chocobar Stick,lunch,veg,Ice Creams,Special ,desserts
+ Raspberry Stick,lunch,veg,Ice Creams,Special ,desserts
+King Cone Chocolate,lunch,veg,Ice Creams,Special ,desserts
+King Cone Butterscotch,lunch,veg,Ice Creams,Special ,desserts
+Matka Kulfi,lunch,veg,Ice Creams,Special ,desserts
+Black Forest Ice Cream Cake,lunch,veg,Ice Creams,Special ,desserts
+Kulfi Stick,lunch,veg,Ice Creams,Special ,desserts
+Apple,lunch,veg,Indian Fruits,,fruits
+Pineapple,lunch,veg,Indian Fruits,,fruits
+Sapota,lunch,veg,Indian Fruits,,fruits
+Grapes,lunch,veg,Indian Fruits,,fruits
+Black Grapes,lunch,veg,Indian Fruits,,fruits
+Papaya,lunch,veg,Indian Fruits,,fruits
+Water Melon,lunch,veg,Indian Fruits,,fruits
+Musk Melon,lunch,veg,Indian Fruits,,fruits
+Orange,lunch,veg,Indian Fruits,,fruits
+Pears,lunch,veg,Indian Fruits,,fruits
+Dates,lunch,veg,Indian Fruits,,fruits
+Anjeer,lunch,veg,Indian Fruits,,fruits
+Guava,lunch,veg,Indian Fruits,,fruits
+Pomogranate,lunch,veg,Indian Fruits,,fruits
+Mango.,lunch,veg,Indian Fruits,,fruits
+Fuji Apple,lunch,veg,Imported Fruits,,fruits
+Australian Grapes,lunch,veg,Imported Fruits,,fruits
+Kiwi,lunch,veg,Imported Fruits,,fruits
+Strawberry,lunch,veg,Imported Fruits,,fruits
+Plums,lunch,veg,Imported Fruits,,fruits
+Sweet Tamarind,lunch,veg,Imported Fruits,,fruits
+Lichi,lunch,veg,Imported Fruits,,fruits
+Dates,lunch,veg,Imported Fruits,,fruits
+Pears,lunch,veg,Imported Fruits,,fruits
+Red Guava,lunch,veg,Imported Fruits,,fruits
+Green Guava,lunch,veg,Imported Fruits,,fruits
+Peaches,lunch,veg,Imported Fruits,,fruits
+Thailand Lichi,lunch,veg,Imported Fruits,,fruits
+Persimmon,lunch,veg,Imported Fruits,,fruits
+Fig,lunch,veg,Imported Fruits,,fruits
+Mini Orange,lunch,veg,Imported Fruits,,fruits
+Rambutan,lunch,veg,Imported Fruits,,fruits
+Dragon Fruit,lunch,veg,Imported Fruits,,fruits
+Mango Steam,lunch,veg,Imported Fruits,,fruits
+Cherry,lunch,veg,Imported Fruits,,fruits

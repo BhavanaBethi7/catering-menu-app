@@ -1,0 +1,7098 @@
+[
+  {
+    "name": "Idly",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Thatta Idly",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Wada",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Pongal",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Upma",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Tomato Bath",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Poori",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Plain Dosa",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Masala Dosa",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Onion Dosa",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Butter Dosa",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Paneer Butter Dosa",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Pizza Dosa",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Pesarattu",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Bambino Upma",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Poha",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Bishi Beli Bath",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Sabudana Kichidi",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Bread Butter/Jam",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Cornflake with Milk",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Rawa Kesari",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Coconut Chutney",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "Common Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Palli Chutney",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "Common Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Tomato Chutney",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "Common Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Sambar",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "Common Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Karam Podi (Idly)",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Alu Curry(Poori)",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Tea",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "Common Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Coffee",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "Common Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Milk",
+    "mealType": "breakfast",
+    "foodType": "veg",
+    "category": "Common Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Apam with Veg. Stew",
+    "mealType": "breakfast",
+    "foodType": "nonveg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Keema Dosa",
+    "mealType": "breakfast",
+    "foodType": "nonveg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Keema Poori",
+    "mealType": "breakfast",
+    "foodType": "nonveg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Bread Omlet",
+    "mealType": "breakfast",
+    "foodType": "nonveg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Chicken Dosa",
+    "mealType": "breakfast",
+    "foodType": "nonveg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Apam with Chicken. Stew",
+    "mealType": "breakfast",
+    "foodType": "nonveg",
+    "category": "BreakFast Items",
+    "subCategory": "",
+    "page": "breakfast"
+  },
+  {
+    "name": "Hot Badam Milk",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Cold Badam Milk",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Ganga Jamuna",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Mosambi Juice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Pineapple Juice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Sapota Juice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Jungle Juice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Water Melon",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Black Grape",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Ajanta Grape",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Mixed Fruit Juice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Orange Juice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Apple Juice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Mango Juice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Fruit Punch",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Lychee Punch",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Pineapple Punch",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Lychee Coconut",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Mango Blossomme",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Orange Blossomme",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Pina Caloda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Melon Surprise",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Lime Soda (Sweet",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Lime Soda (Salt)",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Masala Soda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Mint Mango",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Mint Pineapple",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Anaar Ginger",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Sweet Lassi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Salted Lassi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Special Lassi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Lemon Jaljeera",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Lemon Water Melon",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Apple Shake",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Mango Shake",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Strawberry Shake",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Chocolate Shake",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Banana Shake",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Apple Banana Shake",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Dry Fruit Shake",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Butter Scotch Shake",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Kiwi Delight Shake",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Chiku Shake",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "200ml Water Bottle (Brands)",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Tea or Coffee",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Any Soft Drinks (Branded)",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Tetra Packed Juices",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Blue Sea",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "MockTails",
+    "page": "starters"
+  },
+  {
+    "name": "Pink Lady",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "MockTails",
+    "page": "starters"
+  },
+  {
+    "name": "Mint Green",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "MockTails",
+    "page": "starters"
+  },
+  {
+    "name": "Black Current",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "MockTails",
+    "page": "starters"
+  },
+  {
+    "name": "Peach Melba",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "MockTails",
+    "page": "starters"
+  },
+  {
+    "name": "Verjin Mojito",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "MockTails",
+    "page": "starters"
+  },
+  {
+    "name": "Strawberry Surprise",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "MockTails",
+    "page": "starters"
+  },
+  {
+    "name": "Kiwi Kiss",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "MockTails",
+    "page": "starters"
+  },
+  {
+    "name": "Passion Punch",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Drinks",
+    "subCategory": "MockTails",
+    "page": "starters"
+  },
+  {
+    "name": "Tomato Soup",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Sweetcorn Soup",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Veg. Corn Soup",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Veg. Clear Soup",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Mushroom Soup",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Hot & Sour Soup",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Tomato Shorba",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Corn Shorba",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Badam Soup",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Lemon Coriander Soup",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Veg. Manchow Soup",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Veg. Cantonese Soup",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Clear Soup",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Corn Soup",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Mushroom Soup",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Hot & Sour Soup",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Paya Soup",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Marag Soup",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Badami Murg Soup",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Cantonese Soup",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Manchow Soup",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Soups",
+    "subCategory": "",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken 65",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Manchurian",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Lollypop",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Tikka",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Murg Malai Kabab",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Garlic Kabab",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Reshmi Kabab",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Hariyali Kabab",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Kabab Kali Mirchi",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Thiranga Kabab",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Afghani Kabab",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Pahadi Kababi",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Pakoda",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Leg Roast",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Pepper Chicken",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Popcorn Chicken",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chilli Chicken",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Majestic",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Stick",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Seekh Kabab",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Shami Kabab",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Naggets",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Shezwan Chicken",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Intermediate",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Thatti ka Chicken",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Vantine",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Shovarma",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Tawwa Chicken",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chicken Kathi Roll",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Fried Wings",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Chicken Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Finger Fish",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Fish Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Apollo Fish",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Fish Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Fried Fish",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Fish Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Pepper Fish",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Fish Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chilly Fried Fish",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Fish Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Fish Tikka",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Fish Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Fish Cutlet",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Fish Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Sesmi Fish",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Fish Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Fish Pakoda",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Fish Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Thai Fish Bite",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Fish Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Fish Fry (Murrel With Bone)",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Fish Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Fish Amrithsari",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Fish Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Pamphlet Tavva Fish",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Fish Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Tavva Fish Bone (Murrel)",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Fish Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Tavva Fish Boneless (Murrel)",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Fish Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Fish Fry (Ravu)",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Fish Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Fish Fry (Boche)",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Fish Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Keema Shikhampuri",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Mutton Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Mutton Boti Kabab",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Mutton Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Mutton Seekh Kabab",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Mutton Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Mutton Shami Kabab",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Mutton Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Mutton Chops",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Mutton Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Kheema Lukmi",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Mutton Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Nalgonda Mutton Fry",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Mutton Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Keema Balls",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Mutton Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Liver Fry",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Mutton Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Boti Fry",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Mutton Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Kidney Fry",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Mutton Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Pathar ka Ghosh",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Mutton Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Thalakaya Kura",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Mutton Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Liver Kidney Fry",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Mutton Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Kheema Vantine",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Mutton Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Thatti ka Ghosh",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Mutton Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Loose Chilli Prawns",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Prawns Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Golden Fried Prawns",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Prawns Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Pepper Prawns",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Prawns Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Chilli Prawns",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Prawns Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Prawn Pakoda",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Prawns Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Royyala Vepudu",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Prawns Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Tandoori Prawn",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Prawns Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Butter Garlic Prawns",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Welcome Snacks",
+    "subCategory": "Prawns Snacks",
+    "page": "starters"
+  },
+  {
+    "name": "Mirchi Bajji",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Cut Mirchi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Aratikaya Bajji",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Pan Bajji",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Alu Bajji",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Palak Pakoda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Onion Pakoda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Moongdal Pakoda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Alu Bonda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Mini Bonda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Makka Garelu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Masala Wada",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Pesara Garelu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Minapa Garelu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Alsanda Garelu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Veg. Bullet",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Alu Samosa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Irani Samosa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Corn Somosa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Navratan Mixture",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Regular Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Gold Coin",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Gold Finger",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Capsicum Fingers",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "American Sandwich",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Thiranga Sandwich",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Sandwich Idly",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Masala Idly",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Alu 65",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Gobi 65",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Veg. 65",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Babycorn 65",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Veg. Manchurian",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Paneer Manchurian",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Paneer 777",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Babycorn Manchurian",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Gobi Manchurian",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Pepper Gobi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Paneer Pakoda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Corn Kernel",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Corn Kabab",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Boiled Corn",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Babycorn Pakoda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Moongdal Pakoda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Corn Pakoda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Babycorn Stick",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Babycorn Golden Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Crispy Babycorn",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Crispy Veg.",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Paneer Tikka",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Paneer Stick",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Veg. Stick",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Harabara Tikka",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Pineapple Tikka",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Coriander Bite",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Nellore Wada",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Mini Samosa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Corn Samosa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Paneer Samosa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Irani Samosa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Cocktail Samosa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Mini Kachori",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Veg. Cone",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Veg. Spring Roln",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Shanghai Roll",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Dragon Roll",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Paneer Roll",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Cheese Roll",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Corn Roll",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Cheese Com Roll",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Thai Cigar Roll",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Spider Bullet",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Capsicum Rings",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Corn Stick",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Onion Rings",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Smilies",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "French Fries",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Veg. Jingaro",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Veg. Seekh Kabab",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Chilly Bombs",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Cheese Ball",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Tiger Ball",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Tawwa Paneer",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Pathar Paneer",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Paneer Lolly Pop",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Boiled Pally",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Masala Pally",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Green Peas Roast",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Anapa Gudalu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Cheese Pineapple",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Palak Makkai Kabab",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Spiral Potato",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Cheese Toast",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Bread Paneer Rolls",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Tortilla Samosa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Veg. Packets",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Potato Lolly Pop",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Cheese Pakoda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Spinach Cheese Rolls",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Cheese Kachori",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Baked Bread Rolls",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Bread Dhahi Wada",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Oats Cutlet",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Macaroni Cutlet",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Paneer Alu Tikka",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Tanduri Alu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Malai Paneer Tikka",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Voloment",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Choti Boti Paneer",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Welcome Snacks",
+    "subCategory": "Special Veg",
+    "page": "starters"
+  },
+  {
+    "name": "Bhel Poori",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Pav Bhaji",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Paani Poori",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Pudhina Paani Poori",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Chat Pat Paani Poori",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Dhahi Poori",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Ragda Cutlet",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Ragda Samosa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Dhahi Wada",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Dhahi Papidi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Bread Sandwich",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Idly Sandwich",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Paneer Tikka",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Pineapple Tikka",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Mashroom Tikka",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Baby Corn Tikka",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Alu Tikka",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Moonglet",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Chole Bathoora",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Raj Bhog",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Hole Dhahi Wada",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Angoori Dhahi Wada",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Raj Kachori",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Alu Laccha Tokri",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Kadai Samosa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Wada Pav",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Nellore Wada",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Kadai Badam Milk",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Kesar Jilebi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chaat",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Veg. Spring Roll",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Shanghai Roll",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Dragon Roll",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Veg. Bullets",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Veg. Manchurian",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Gobi Manchurian",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Babycorn Manchurian",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Paneer Manchurian",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Veg. Stick",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Gold Coin",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Alu 65",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Gobi 65",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Babycorn 65",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Babycorn Pakoda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Paneer Pakoda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Sweetcorn Pakoda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Veg. Corn Soup",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Sweet Corn Soup",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Tomato Soup",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Hot & Sour Soup (Veg.)",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Veg. Fried Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Mexican Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Mongolian Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Shezwan Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Kada",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Bamboo Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Shezwan Noodles",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Veg. Soft Noodles",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Fried Noodles",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Hongkong Noodles",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Mongolian Noodles",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Garlic Noodles",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Singapore Noodles",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Hot Garlic Sauce",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "American Chopsoy",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Veg. Chow Chow",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Veg Manchurian (Wet)",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Mongolian Hok Pok",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Veg. Lasania",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Thai Veg. (Wet)",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Chilli Veg (Wet)",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Chilli Paneer",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Veg. Momos",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Chicken Hot & Sour Soup",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Chicken Corn Soup",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Egg Fried Rice",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Chicken Fried Rice",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Mixed Fried Rice",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "American Chopsoy (Non-Veg)",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Chilly Chicken Wet",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Chicken Manchurian Wet",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Shezwan Chicken Wet",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Chicken Sizzler",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Garlic Chicken (Dry & Wet)",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Chicken Bhel Stick",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Chicken Saate",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Chicken Momos",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Chinese",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Butter Chicken",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Punjabi Dhaba",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Anda Bhurji",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Punjabi Dhaba",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Sarson ka Saag",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Punjabi Dhaba",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Makki ki Roti",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Punjabi Dhaba",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Amritsari Kulcha",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Punjabi Dhaba",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Punjabi Chole",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Punjabi Dhaba",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Dal Makhni",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Punjabi Dhaba",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Kada Pakoda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Punjabi Dhaba",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Dal Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Punjabi Dhaba",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Paneer Bhurji",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Punjabi Dhaba",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Lababdar Paneer",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Punjabi Dhaba",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Lichi Diwani",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Punjabi Dhaba",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Dal Tadka",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Punjabi Dhaba",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Chana Pindi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Punjabi Dhaba",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Red Pasta",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Italian",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "White Pasta",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Italian",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Garlic Bread",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Italian",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Pepper Pizza",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Italian",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Mini Pizza",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Italian",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Red Pepper Olives Pizza",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Italian",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Corn Pizza",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Italian",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Special Pizza",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Italian",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Classic Pizza",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Italian",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Cheese Pizza",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Italian",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Chicken Pizza",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Italian",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Thin Crust Pizza",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Italian",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Nacho Salsa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Italian",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Veg. Buritos",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Mexican",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Chicken Buritos",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Mexican",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Mexican Green Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Mexican",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Mexican Fried Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Mexican",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Mexican Chacos",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Mexican",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Corn Bhel",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Mexican",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Corn Chat",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Mexican",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Tacos with Salsa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Mexican",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Nachos",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Mexican",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Burrito",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Mexican",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Fajitas",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Mexican",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Mexican rap",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Mexican",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Quesadilla",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Mexican",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Pita Bread",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Continental",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Falafel",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Continental",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Mutabak",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Continental",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Aloo Rosti",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Continental",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Banana Rosti",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Continental",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Paneer Shawarma",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Continental",
+    "subCategory": "",
+    "page": "cuisines"
+  },
+  {
+    "name": "Hyderabadi Mutton Biryani",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Rice",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Mutton Sofiyani Biryani",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Rice",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Hyderabadi Chicken Biryani",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Rice",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Chicken Sofiyani Biryani",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Rice",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Chicken Pulav",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Rice",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Bachelor Chicken Biryani",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Rice",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Bachelor Mutton Biryani",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Rice",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Keema Biryani",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Rice",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Keema Prawns Biryani",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Rice",
+    "subCategory": "Prawns",
+    "page": "main"
+  },
+  {
+    "name": "Prawns Pulav",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Rice",
+    "subCategory": "Prawns",
+    "page": "main"
+  },
+  {
+    "name": "Ulavacharu Chicken Biryani",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Rice",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Egg Biryani",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Rice",
+    "subCategory": "Egg",
+    "page": "main"
+  },
+  {
+    "name": "Chicken Fried Rice",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Rice",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Keema Rice",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Rice",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Mixed Fried Rice",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Rice",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Egg Fried Rice",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Rice",
+    "subCategory": "Egg",
+    "page": "main"
+  },
+  {
+    "name": "Dhumka Chicken",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Methi Chicken",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Chilli Chicken",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Ginger Chicken",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Coriander Chicken",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Gongoora Chicken",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Moghalai Chicken",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Hariyali Chicken",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Country Chicken (Fry/Wet)",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Butter Chicken",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Chicken Masala",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Chicken Keema",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Chilly Chicken Wet (Chinese)",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Chicken Manchurian Wet",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Chicken Diwani Handi",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Ankapuri Chicken",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Chicken",
+    "page": "main"
+  },
+  {
+    "name": "Mutton Curry",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Moghalai Mutton",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Mutton Pasinda",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Mutton Kali Mirchi",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Mutton Roganjosh",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Gongoora Maamsam",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Chukkakura Maamsam",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Palak Mutton",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Munakkaya Mutton",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Liver Fry",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Kidney Fry",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Nalgonda Mutton Fry",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Kowu Charu",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Bokkala Charu",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Mutton Pulusu",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Mutton Dalcha",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Boti Dhalcha",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Thalakaya Kura",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Keema Batana",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Keema Palak",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Keema Methi",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Keema Koftha Curry",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Keema Kidney Curry",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Paya",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Haleem",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Morag Soup",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Mutton",
+    "page": "main"
+  },
+  {
+    "name": "Finger Fish",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Fish",
+    "page": "main"
+  },
+  {
+    "name": "Apollo Fish",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Fish",
+    "page": "main"
+  },
+  {
+    "name": "Fried Fish",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Fish",
+    "page": "main"
+  },
+  {
+    "name": "Chilly Fried Fish",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Fish",
+    "page": "main"
+  },
+  {
+    "name": "Pepper Fish",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Fish",
+    "page": "main"
+  },
+  {
+    "name": "Fish Fry (Murrel with bone)",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Fish",
+    "page": "main"
+  },
+  {
+    "name": "Chapala Pulusu (Murrel)",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Fish",
+    "page": "main"
+  },
+  {
+    "name": "Chapala Pulusu (Boche)",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Fish",
+    "page": "main"
+  },
+  {
+    "name": "Jellala Pulusu",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Fish",
+    "page": "main"
+  },
+  {
+    "name": "Bommidala Pulusu",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Fish",
+    "page": "main"
+  },
+  {
+    "name": "Tawwa Pamphlet",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Fish",
+    "page": "main"
+  },
+  {
+    "name": "Masala Tawwa Fish",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Fish",
+    "page": "main"
+  },
+  {
+    "name": "Fish Fry (Rava)",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Fish",
+    "page": "main"
+  },
+  {
+    "name": "Fish Fry (Boche)",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Fish",
+    "page": "main"
+  },
+  {
+    "name": "Ginger Prawns",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Prawns",
+    "page": "main"
+  },
+  {
+    "name": "Loose Prawns",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Prawns",
+    "page": "main"
+  },
+  {
+    "name": "Chilli Prawns",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Prawns",
+    "page": "main"
+  },
+  {
+    "name": "Fried Prawns",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Prawns",
+    "page": "main"
+  },
+  {
+    "name": "Prawn Iguru",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Prawns",
+    "page": "main"
+  },
+  {
+    "name": "Boiled Egg",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Egg",
+    "page": "main"
+  },
+  {
+    "name": "Egg Oil Fry",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Egg",
+    "page": "main"
+  },
+  {
+    "name": "Egg 65",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Egg",
+    "page": "main"
+  },
+  {
+    "name": "Egg Manchurian",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Egg",
+    "page": "main"
+  },
+  {
+    "name": "Gudla Pulusu",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Egg",
+    "page": "main"
+  },
+  {
+    "name": "Egg Masala",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Egg",
+    "page": "main"
+  },
+  {
+    "name": "Egg Mirchi Masala",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Egg",
+    "page": "main"
+  },
+  {
+    "name": "Egg Cutlet",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Egg",
+    "page": "main"
+  },
+  {
+    "name": "Gudla Miram",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Egg",
+    "page": "main"
+  },
+  {
+    "name": "Egg Burji",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Egg",
+    "page": "main"
+  },
+  {
+    "name": "Egg Ulawa Charu",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Egg",
+    "page": "main"
+  },
+  {
+    "name": "Egg Tomato Cut",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Egg",
+    "page": "main"
+  },
+  {
+    "name": "Tomato Kodi Gudlu",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Egg",
+    "page": "main"
+  },
+  {
+    "name": "Gongura Kodi Gudlu",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Egg",
+    "page": "main"
+  },
+  {
+    "name": "Egg Cutlet",
+    "mealType": "lunch",
+    "foodType": "nonveg",
+    "category": "Curries",
+    "subCategory": "Egg",
+    "page": "main"
+  },
+  {
+    "name": "Veg Dhum ka Biryani",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Veg Pulav",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Paneer Pulav",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Peas Pulav",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Kichidi Pulav",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Kaju Pulav",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Kashmiri Pulav",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Mutter Methi Pulav",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Chinese Fried Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Avakaya Biryani",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Mealmaker Biryani",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Mushroom Biryani",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Panasa Biryani",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Mexican Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Seven Jewel Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Bagara Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Ulavacharu Biryani",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Jeera Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Shezwan Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Spring Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Gobi Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Capsicum Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Vangi Bath",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Ginger Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Dal Kichidi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Ginger Mushroom Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Pudina Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Pudina Corn Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Palak Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Karivepaku Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Coconut Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Tomato Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Masala Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Pongal",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Pulihora (Tamarind)",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Lemon Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "MamidiKaya Pulihora",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Sambar Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Curd Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Alu Bath",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Bishi Beli Bath",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Raagi Sankati",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Raagi Muddha",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Live Pickle Rice",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Rice",
+    "subCategory": "",
+    "page": "main"
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Paneer Tikka Masala",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Paneer Babycorn Masala",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Paneer Capsicum Masala",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Paneer Chatpata",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Paneer do Pyasa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Bhendi do Pyasa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Hariyali Paneer",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Kaju Paneer",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Methi Chaman",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Veg. Jaipuri",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Achari Paneer",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Achari Alu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Palak Paneer",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Kadai Paneer",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Chilli Paneer (Chinese)",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Ginger Paneer",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Navratan Kurma",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Paneer Shahi Kurma",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Veg. Chatpata",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Veg. Supreme",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Veg.Kollapuri",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Corn Palak",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Dhum Alu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Tawa Vegetable",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Babycorn Palak",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Babycorn Do Pyaza",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Babycorn Masala",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Ginger Babycorn",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Ginger Alu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Ginger Gobi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Ginger Veg.",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Ginger Mushroom",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Mushroom Kaju",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Munakkaya Kaju",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Malai koftha",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Palak Koftha Curry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Veg. Diwani Handi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Special",
+    "page": "main"
+  },
+  {
+    "name": "Mirchi Ka Saalan",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Bagara Baingan",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Capsicum Masala",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Tomato Masala",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Capsicum Tomato Masala",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Mirchi Tomato Masala",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Dondakaya Masala",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Sorakaya Masala",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Beerakaya Masala",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Mealmaker Masala",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Rajma Masala",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Chole Masala",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Bhendi Masala",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Kaddu Koftha Curry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Sorakaya Pulusu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Chama Gadda Pulusu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Kanda Gadda Pulusu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Wada Pulusu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Gumadikaya Pulusu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Bendakaya Pulusu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Kakarakaya Pulusu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Attu Thunakala Pulusu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Beerakaya Alsandalu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Beerakaya Methi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Beerakaya Boondi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Alu Palak",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Chana Palak",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Chikkudukaya Alu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Vankaya Alu Tomato",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Dosakaya Tomato",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Alu Gobi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Alu Mutter",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Mixed Veg Kurma",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Gangavali Tomato",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Aviyal",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Regular",
+    "page": "main"
+  },
+  {
+    "name": "Alu Methi Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Alu Gobi Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Alu Capsicum Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Jeera Aloo",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Bendi Kaju Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Jaipur Bendi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Chat Pat Bendi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Kanda Kaju Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Kanda Thurimi Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Donda Kaju Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Aratikaya Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Chamagadda Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Beans Coconut Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Kakarakaya Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Sorakaya Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Chikkudu Kaya Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Gokarakaya Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Cabbage Coconut Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Panasa Pottu Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Nutrilla Kaju Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Nutrilla Beans Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Nutrilla Palak Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Guthivankaya Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Mixed Vegetable Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Vankaya Pakoda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Dondakaya Pakoda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Stuffed Capsicum",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Pepper Brinjal fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Gobi Besan Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Fry Items",
+    "page": "main"
+  },
+  {
+    "name": "Palak Dal",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Palak Mango Dal",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Gangabavi Mango Dal",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Chukkakura Pappu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Bachalikura Pappu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Gongoora Pappu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Tomato Pappu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Mamidi Kaya Pappu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Mudda Pappu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Beerakaya Pappu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Tomato Pesara Pappu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Chinthakaya Pappu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Dosakaya Pappu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Nimmakaya Pappu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Thota Kura Pappu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Rajma Dal",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Dal Fry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Dal Makhani",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Tadka Dal",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Dals",
+    "page": "main"
+  },
+  {
+    "name": "Drumstick Sambar",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Rasams",
+    "page": "main"
+  },
+  {
+    "name": "Mixed Sambar",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Rasams",
+    "page": "main"
+  },
+  {
+    "name": "Madras Sambar",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Rasams",
+    "page": "main"
+  },
+  {
+    "name": "Pappucharu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Rasams",
+    "page": "main"
+  },
+  {
+    "name": "Veg. Dhalcha",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Rasams",
+    "page": "main"
+  },
+  {
+    "name": "Mukkala Pulusu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Rasams",
+    "page": "main"
+  },
+  {
+    "name": "Munakkaya Charu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Rasams",
+    "page": "main"
+  },
+  {
+    "name": "Tomato Charu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Rasams",
+    "page": "main"
+  },
+  {
+    "name": "Ulawa Charu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Rasams",
+    "page": "main"
+  },
+  {
+    "name": "Bendakaya Charu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Rasams",
+    "page": "main"
+  },
+  {
+    "name": "Tomato Rasam",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Rasams",
+    "page": "main"
+  },
+  {
+    "name": "Miryala Rasam",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Rasams",
+    "page": "main"
+  },
+  {
+    "name": "Beetroot Rasam",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Rasams",
+    "page": "main"
+  },
+  {
+    "name": "Udipi Rasam",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Rasams",
+    "page": "main"
+  },
+  {
+    "name": "Pachi Pulusu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Rasams",
+    "page": "main"
+  },
+  {
+    "name": "Majjiga Pulusu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Rasams",
+    "page": "main"
+  },
+  {
+    "name": "Kadi Pakoda",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Curries",
+    "subCategory": "Rasams",
+    "page": "main"
+  },
+  {
+    "name": "Dosa Avakaya",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Gobi Avakaya",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Donda Avakaya",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Mango Avakaya",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Lime Pickle",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Mixed Veg. Pickle",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Gongoora Pickle",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Gongoora Chutney",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Tomato Pickle",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Tomato Chutney",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Cabbage Chutney",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Carrot Chutney",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Allam Chutney",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Beerakaya Chutney",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Dosakaya Chutney",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Vankaya Dosakaya Chutney",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Pudina Chutney",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Pudina Coconut Chutney",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Coconut Chutney",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Mango Coconut Chutney",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Chukkakura Chutney",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Kothimeera Chutney",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Kandi Podi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Nallakaram Podi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Kariyepak Podi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Putnaala Podi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Kobbari Kaaram Podi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Nuvvula Kaaram",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Ellipaya Kaaram",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Pickels/Powders",
+    "page": "main"
+  },
+  {
+    "name": "Onion Raitha",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Raitha",
+    "page": "main"
+  },
+  {
+    "name": "Mixed Raitha",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Raitha",
+    "page": "main"
+  },
+  {
+    "name": "Keera Raitha",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Raitha",
+    "page": "main"
+  },
+  {
+    "name": "Tomato Raitha",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Raitha",
+    "page": "main"
+  },
+  {
+    "name": "Boondi Raitha",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Raitha",
+    "page": "main"
+  },
+  {
+    "name": "Potlakaya Raitha",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Raitha",
+    "page": "main"
+  },
+  {
+    "name": "Pineapple Raitha",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Raitha",
+    "page": "main"
+  },
+  {
+    "name": "Plain Papad",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Papad",
+    "page": "main"
+  },
+  {
+    "name": "Masala Papad",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Papad",
+    "page": "main"
+  },
+  {
+    "name": "Vadiyalu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Papad",
+    "page": "main"
+  },
+  {
+    "name": "Curd Chillies",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Papad",
+    "page": "main"
+  },
+  {
+    "name": "Alu Chips",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Papad",
+    "page": "main"
+  },
+  {
+    "name": "Frymes",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Papad",
+    "page": "main"
+  },
+  {
+    "name": "Disco Papad",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Papad",
+    "page": "main"
+  },
+  {
+    "name": "Veg. Salad",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Salads",
+    "page": "main"
+  },
+  {
+    "name": "Keera Salad",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Salads",
+    "page": "main"
+  },
+  {
+    "name": "Onion Salad",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Salads",
+    "page": "main"
+  },
+  {
+    "name": "Sprouted Salad",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Salads",
+    "page": "main"
+  },
+  {
+    "name": "Alu Chana Chat",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Salads",
+    "page": "main"
+  },
+  {
+    "name": "Chana Chat",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Salads",
+    "page": "main"
+  },
+  {
+    "name": "Pasta Salad",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Salads",
+    "page": "main"
+  },
+  {
+    "name": "Tandoori Salad",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Salads",
+    "page": "main"
+  },
+  {
+    "name": "Russian Salad",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Salads",
+    "page": "main"
+  },
+  {
+    "name": "Cabbage Lemon Salad",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Salads",
+    "page": "main"
+  },
+  {
+    "name": "Spl. Salads",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Salads",
+    "page": "main"
+  },
+  {
+    "name": "Mexican Egg Salad",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "General Items",
+    "subCategory": "Salads",
+    "page": "main"
+  },
+  {
+    "name": "Gulab Jamoon",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Kala Jamoon",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Disco Jamoon",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Baadhusha",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Mothichur Laddu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Boondi Laddu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Mysore Pak",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Milk Mysore Pak",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Madatha Kaaja",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Kakinada Kaaja",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Jhangri",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Jilebi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Mini Jilebi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Khova Burfi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Khova Garjelu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Malai Roll",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Kaddu Ka Kheer",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Kaddu Ka Halwa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Carrot Halwa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Gaajar Ka Halwa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Gummadi Kaya Halwa",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Double Ka Meeta",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Rice Ferny",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Bobbatlu / Bakshalu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Poornam Boorelu",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Chocolate Burfi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Sweet Pongal",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Fruit Salad Custard",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Khubhani Ka Meeta",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Sabid Khubhani Ka Meeta",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Khubhani Tripple",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Apricot Delite",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Tawwa Mithai",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Tawwa Jamun",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Jilebi With Rabdi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Mango Rabdi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Dryfruit Rabdi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Fruit Rabdi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Jamun Rabdi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Rasgulla",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Baked Rasgulla",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Ras Malai",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Ras Madhuri",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Raaj Bhog",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Paneer Jilebi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Kesari Jilebi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Angoori Ras Malai",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Baasundi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Lichi Gulla",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Lichi Ferney",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Maal Puva",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Indra Poori",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Pan Peta",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Nawabi Fruit Salad",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Sweets",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Vannila",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Strawberry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Orange",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Pineapple",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Mango",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Chocolate Ripple",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Strawberry Ripple",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Regular",
+    "page": "desserts"
+  },
+  {
+    "name": "Chocolate",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Mango",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Seethapal",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Chaco Chips",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Pista",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Butter Scotch",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Kulfi Malai",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Honeymoon Delite",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Paina Chikki",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Honey Almond",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Dry Fruit Temptation",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Mello Jello",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Beri Bonanja",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Black Current",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Anjeer Badam",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Caremel Nuts",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Chaco Roco",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Bon Bon Stick",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Belgium Dark Chocolate",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Jamaican Chaco Fadge",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Mini Chaco Bar",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Mini Cone",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Orange Bar",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Mango Bar",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Kassata",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Single Sundaes",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Double Sundaes",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Mixed Fruit Sundaes",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Ice Cream Mela",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Cream Stone",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Mango Duet Stick",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Chocobar Stick",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Raspberry Stick",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "King Cone Chocolate",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "King Cone Butterscotch",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Matka Kulfi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Black Forest Ice Cream Cake",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Kulfi Stick",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Ice Creams",
+    "subCategory": "Special",
+    "page": "desserts"
+  },
+  {
+    "name": "Apple",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Indian Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Pineapple",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Indian Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Sapota",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Indian Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Grapes",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Indian Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Black Grapes",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Indian Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Papaya",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Indian Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Water Melon",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Indian Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Musk Melon",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Indian Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Orange",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Indian Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Pears",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Indian Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Dates",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Indian Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Anjeer",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Indian Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Guava",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Indian Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Pomogranate",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Indian Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Mango.",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Indian Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Fuji Apple",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Australian Grapes",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Kiwi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Strawberry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Plums",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Sweet Tamarind",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Lichi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Dates",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Pears",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Red Guava",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Green Guava",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Peaches",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Thailand Lichi",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Persimmon",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Fig",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Mini Orange",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Rambutan",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Dragon Fruit",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Mango Steam",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  },
+  {
+    "name": "Cherry",
+    "mealType": "lunch",
+    "foodType": "veg",
+    "category": "Imported Fruits",
+    "subCategory": "",
+    "page": "fruits"
+  }
+]
