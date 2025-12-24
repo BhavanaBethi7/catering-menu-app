@@ -2,8 +2,8 @@ import { useMenu } from "../context/MenuContext";
 
 const MEALS = [
   { key: "breakfast", label: "Breakfast", emoji: "🍳" },
-  { key: "lunch", label: "Lunch", emoji: "🍛" },
-  { key: "dinner", label: "Dinner", emoji: "🌙" },
+  { key: "lunch", label: "Lunch & Dinner", emoji: "🍛" },
+  
 ];
 
 export default function MealTypeSelector() {
