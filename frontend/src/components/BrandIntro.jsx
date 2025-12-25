@@ -3,18 +3,17 @@ import { motion } from "framer-motion";
 import logo from "../assets/logo.png";
 import { useNavigate } from "react-router-dom";
 
-
-
 const BRAND = "SRI SIDDHI VINAYAKA CATERERS";
 
 export default function BrandIntro() {
   const [stage, setStage] = useState(0);
-  const [showFoodType, setShowFoodType] = useState(false);
   const navigate = useNavigate();
+
   return (
     <div
       style={{
         width: "100vw",
+        height: "100vh", // ✅ FIX
         background: "radial-gradient(circle at left, #FFF3E8, #F5EFE6)",
         display: "flex",
         alignItems: "center",
@@ -30,24 +29,28 @@ export default function BrandIntro() {
         transition={{ duration: 1.2, ease: "easeInOut" }}
         style={{ position: "absolute" }}
       >
-        <svg width="420" height="420" viewBox="0 0 420 420">
+        <svg
+          viewBox="0 0 420 420"
+          style={{
+            width: "min(90vw, 420px)", // ✅ responsive
+            height: "auto",
+          }}
+        >
           <defs>
-  <path
-    id="circlePath"
-    d="
-      M 210 210
-      m -120 0
-      a 120 120 0 1 1 240 0
-      a 120 120 0 1 1 -240 0
-    "
-    fill="none"
-  />
-
-  {/* PERFECT CIRCULAR CLIP FOR LOGO */}
-  <clipPath id="logoClip" clipPathUnits="userSpaceOnUse">
-    <circle cx="210" cy="210" r="55" />
-  </clipPath>
-</defs>
+            <path
+              id="circlePath"
+              d="
+                M 210 210
+                m -120 0
+                a 120 120 0 1 1 240 0
+                a 120 120 0 1 1 -240 0
+              "
+              fill="none"
+            />
+            <clipPath id="logoClip">
+              <circle cx="210" cy="210" r="55" />
+            </clipPath>
+          </defs>
 
           <motion.g
             initial={{ rotate: 0 }}
@@ -87,19 +90,19 @@ export default function BrandIntro() {
               </textPath>
             </motion.text>
 
-            {/* Pan */}
+            {/* Pan + Logo */}
             <g transform="translate(210 210)">
-                <motion.image
-  href={logo}
-  x={-55}
-  y={-55}
-  width={110}
-  height={110}
-  clipPath="url(#logoClip)"
-  animate={{ opacity: stage >= 2 ? 0.65 : 0 }}
-  transition={{ duration: 1.2, ease: "easeInOut" }}
-  preserveAspectRatio="xMidYMid slice"
-/>
+              <motion.image
+                href={logo}
+                x={-55}
+                y={-55}
+                width={110}
+                height={110}
+                clipPath="url(#logoClip)"
+                animate={{ opacity: stage >= 2 ? 0.65 : 0 }}
+                transition={{ duration: 1.2 }}
+              />
+
               <motion.circle
                 r="110"
                 fill="#2B2B2B"
@@ -107,8 +110,8 @@ export default function BrandIntro() {
                 strokeWidth="4"
                 animate={{ opacity: stage < 2 ? 1 : 0 }}
                 transition={{ duration: 1 }}
-/>
-              {/* Handle hides but pan stays */}
+              />
+
               <motion.rect
                 x="-220"
                 y="-12"
@@ -117,15 +120,12 @@ export default function BrandIntro() {
                 rx="12"
                 fill="#2B2B2B"
                 animate={{ opacity: stage === 0 ? 1 : 0 }}
-                transition={{ duration: 0.6 }}
               />
             </g>
           </motion.g>
         </svg>
       </motion.div>
-
-      {/* ================= LOGO OVERLAY (FADE IN ON CTA) ================= */}
-     <motion.div
+      <motion.div
   initial={{ opacity: 0 }}
   animate={{ opacity: stage >= 2 ? 1 : 0 }}
   transition={{ duration: 1.2, ease: "easeInOut" }}
@@ -164,7 +164,6 @@ export default function BrandIntro() {
     />
   </div>
 </motion.div>
-
       {/* ================= CENTER TEXT ================= */}
       <motion.div
         initial={{ opacity: 0, y: 30 }}
@@ -172,59 +171,44 @@ export default function BrandIntro() {
           opacity: stage >= 1 ? 1 : 0,
           y: stage >= 1 ? 0 : 30,
         }}
-        transition={{ duration: 1.1, ease: "easeOut" }}
+        transition={{ duration: 1.1 }}
         onAnimationComplete={() =>
           stage === 1 && setTimeout(() => setStage(2), 800)
         }
         style={{
           position: "absolute",
           textAlign: "center",
+          padding: "0 16px",
         }}
       >
-        <h1
-          style={{
-            fontFamily: "'Playfair Display', serif",
-            fontSize: "42px",
-            letterSpacing: "4px",
-            color: "#7B1E3C",
-            marginBottom: "10px",
-          }}
-        >
+        <h1 style={{ fontSize: "clamp(22px, 5vw, 42px)" }}>
           {BRAND}
         </h1>
-        <p style={{ color: "#555" }}>
-          Traditional taste. Modern planning.
-        </p>
+        <p>Traditional taste. Modern planning.</p>
       </motion.div>
 
       {/* ================= CTA ================= */}
-       <motion.button
+      <motion.button
         initial={{ opacity: 0, y: 20 }}
         animate={{
           opacity: stage >= 2 ? 1 : 0,
           y: stage >= 2 ? 0 : 20,
         }}
-        transition={{ duration: 0.8, ease: "easeOut" }}
+        transition={{ duration: 0.8 }}
         onClick={() => navigate("/menu")}
         style={{
           position: "absolute",
-          bottom: "120px",
+          bottom: "80px",
           padding: "14px 40px",
           borderRadius: "30px",
-          border: "none",
           background: "#7B1E3C",
           color: "#fff",
-          fontSize: "16px",
-          letterSpacing: "1px",
+          border: "none",
           cursor: "pointer",
-          boxShadow: "0 12px 30px rgba(0,0,0,0.25)",
         }}
       >
         Create Menu
       </motion.button>
-
-      
-
     </div>
   );
 }
