@@ -16,14 +16,18 @@ html, body {
 
 body {
   font-family: 'Inter', system-ui, sans-serif;
-  background: #FFF8EE;           /* festive ivory */
+  background: #FFF8EE;
   color: #3B2F2F;
   line-height: 1.6;
-  overflow-x: hidden;            /* ✅ allows vertical scroll */
+
+  /* ✅ IMPORTANT */
+  overflow-x: hidden;
+  overflow-y: auto;
+  min-height: 100vh;
 }
 
 /* ================================
-   BACKGROUND GLOW (SAFE)
+   BACKGROUND GLOW
 ================================ */
 
 .background-glow {
@@ -57,17 +61,24 @@ h3 { font-size: 1.2rem; }
 
 .page-wrapper {
   width: 100%;
+  min-height: 100vh;              /* ✅ CRITICAL */
   padding: 3rem 2rem;
+  display: flex;
+  justify-content: center;
 }
 
 .glass-container {
   width: 100%;
   max-width: 1400px;
+  min-height: 100%;
   margin: 0 auto;
+
   background: rgba(255, 255, 255, 0.9);
   backdrop-filter: blur(18px);
+
   border-radius: 26px;
   padding: 3rem;
+
   box-shadow:
     0 30px 80px rgba(0, 0, 0, 0.2),
     inset 0 1px 0 rgba(255,255,255,0.6);
@@ -94,6 +105,7 @@ h3 { font-size: 1.2rem; }
   gap: 2rem;
   flex-wrap: wrap;
   justify-content: center;
+  width: 100%;
 }
 
 /* ================================
@@ -127,13 +139,14 @@ h3 { font-size: 1.2rem; }
 }
 
 /* ================================
-   MENU ITEMS
+   MENU ITEMS (DESKTOP)
 ================================ */
 
 .menu-items {
   column-count: 3;
   column-gap: 3rem;
   margin-top: 2rem;
+  width: 100%;
 }
 
 .menu-item {
@@ -206,17 +219,21 @@ button {
 
 @media (max-width: 768px) {
 
+  body {
+    overflow-y: auto;
+  }
+
   h1 { font-size: 22px; }
   h2 { font-size: 20px; }
   h3 { font-size: 16px; }
 
   .page-wrapper {
-    padding: 1.5rem 1rem;
+    padding: 1.25rem 0.75rem;
   }
 
   .glass-container {
     padding: 1.25rem;
-    border-radius: 18px;
+    border-radius: 16px;
   }
 
   .card-group {
@@ -228,7 +245,9 @@ button {
     width: 100%;
   }
 
+  /* ✅ THIS FIXES MOBILE MENU INVISIBILITY */
   .menu-items {
-    column-count: 1;       /* ✅ MAJOR FIX */
+    column-count: 1;
+    column-gap: 0;
   }
 }
