@@ -18,6 +18,7 @@ export default function MenuSelection() {
 
   const [menu, setMenu] = useState(null);
   const [loading, setLoading] = useState(false);
+  
 
   /* ---------------- FETCH MENU ---------------- */
   useEffect(() => {
@@ -29,9 +30,10 @@ export default function MenuSelection() {
     const fetchMenu = async () => {
       setLoading(true);
       try {
+        const API_URL = import.meta.env.VITE_API_URL;
         const response = await fetch(
-          `http://localhost:5000/api/menu?mealType=${mealType}&foodType=${foodType}`
-        );
+  `${API_URL}/api/menu?mealType=${mealType}&foodType=${foodType}`
+);
         const data = await response.json();
         setMenu(data);
       } catch (error) {
